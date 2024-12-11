@@ -18,7 +18,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |  yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada  |   |
+|  2 |   |   |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
 
