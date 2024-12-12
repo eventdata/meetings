@@ -26,6 +26,27 @@ Instructions:
 
 <br>
 
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
+
 ## January 16, 2025 
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
@@ -35,7 +56,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## January 23, 2025 
 
@@ -46,7 +89,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## January 30, 2025 
 
@@ -57,7 +122,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## February 6, 2025 
 
@@ -68,7 +155,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## February 13, 2025 
 
@@ -78,7 +187,30 @@ Instructions:
 |  2 |   |   |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
+
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## February 20, 2025 
 
@@ -88,7 +220,30 @@ Instructions:
 |  2 |   |   |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
+
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## Date 
 
@@ -100,7 +255,29 @@ Instructions:
 |  4 |   |   |   |
 
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## February 27, 2025 
 
@@ -111,7 +288,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## March 6, 2025 
 
@@ -121,7 +320,30 @@ Instructions:
 |  2 |   |   |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
+
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## March 13, 2025 
 
@@ -132,7 +354,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## March 20, 2025 
 
@@ -144,7 +388,29 @@ Instructions:
 |  4 |   |   |   |
 
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## March 27, 2025 
 
@@ -154,7 +420,30 @@ Instructions:
 |  2 |   |   |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
+
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## April 3, 2025 
 
@@ -165,7 +454,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## April 10, 2025 
 
@@ -178,7 +489,29 @@ Instructions:
 
 
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## April 17, 2025 
 
@@ -189,7 +522,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## April 24, 2025 
 
@@ -200,7 +555,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## May 1, 2025 
 
@@ -213,7 +590,29 @@ Instructions:
 
 
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## May 8, 2025 
 
@@ -224,7 +623,29 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
 <br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
 
 ## May 15, 2025 
 
@@ -235,3 +656,26 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+
+<br>
+
+**UTD updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**WVU updates**
+* xxx
+* xxx
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+* xxx
+* xxx
+
+---
