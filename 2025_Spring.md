@@ -53,7 +53,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
+|  2 | Dr. Paula Cuellar  | Exploring collaboration  | [Link](https://profiles.utdallas.edu/paula.cuellarcuellar)  |
 |  3 |   |   |   |
 |  4 |   |   |   |
 
