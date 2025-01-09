@@ -54,16 +54,17 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 | Dr. Paula Cuellar  | Exploring collaboration  | [Link](https://profiles.utdallas.edu/paula.cuellarcuellar)  |
-|  3 |   |   |   |
+|  3 |  Niamat | Dynamic TKG Update |   |
 |  4 |   |   |   |
 
 
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* Working on ConfliBERT slides for talks at UTD, TexMeth, ISA, etc.
+* ToI update?
+* ConflLlama?
+* Checking with Sasmita on storage / data accessing across ACCESS resources
 
 <br>
 
