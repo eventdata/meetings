@@ -21,8 +21,8 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Brandt, D'Orazio, Osorio | APSA research group  | [APSA link](https://connect.apsanet.org/vrm2025/research-group-workshops/)  |
-|  3 | Omar  |   |   |
-|  4 | Osorio  | MT Summit paper  |   |
+|  3 | Omar  | Structuring Congressional hearings  |   |
+|  4 | Osorio  | MT Summit paper  | [Overleaf doc](https://www.overleaf.com/1198725943dnjtjwjwwckz#226178)  |
 
 <br>
 
