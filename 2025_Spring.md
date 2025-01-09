@@ -20,9 +20,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 |  Brandt, D'Orazio, Osorio | APSA research group  | [APSA link](https://connect.apsanet.org/vrm2025/research-group-workshops/)  |
+|  3 | Omar  |   |   |
+|  4 | Osorio  | MT Summit paper  |   |
 
 <br>
 
