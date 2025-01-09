@@ -41,9 +41,10 @@ Instructions:
 <br>
 
 **UA updates**
-* xxx
-* xxx
-* xxx
+* Progress on MT Summit paper
+* Implementing POS analysis 
+* Still more work to do
+* Conference deadline is on January 27
 
 ---
 
