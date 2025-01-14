@@ -53,11 +53,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 | Dr. Paula Cuellar  | Exploring collaboration  | [Link](https://profiles.utdallas.edu/paula.cuellarcuellar)  |
-|  3 |  Niamat | Dynamic TKG Update |   |
-|  4 | Shreyas | ConflLlama updates | [Link to read paper](https://www.overleaf.com/read/pxfkjjvmzzdr#493ec0)  |
-|  5 |  |  |  |
-
+|  2 | Shreyas | ConflLlama updates | [Link to read paper](https://www.overleaf.com/read/pxfkjjvmzzdr#493ec0)  |
+| 3  | Brandt / Elliott | Review ConfliBERT Manual and replication
+| 4 | Vito / Omer | Discussion about processing hearings data |  |
 
 <br>
 
@@ -88,8 +86,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
+|  2 | Dr. Paula Cuellar  | Exploring collaboration  | [Link](https://profiles.utdallas.edu/paula.cuellarcuellar)  |
+|  3 |  Niamat | Dynamic TKG Update |   |
 |  4 |   |   |   |
 
 
