@@ -78,7 +78,8 @@ Instructions:
 * Still working on the MT Summet paper.
 * Dr. Osorio is calculating the [dependency distance](https://hlasse.github.io/TextDescriptives/dependencydistance.html) for each language. However, he is stuck with Arabic.
 * Hopefully we can make some progress soon.
-* The MT Summit deadline is on Jan 27. 
+* The MT Summit deadline is on Jan 27.
+* Next week, the UA team will resume annotations of the UN data in EN, ES, AR for Plover categories and event data elements (source, action, target).
 
 ---
 
