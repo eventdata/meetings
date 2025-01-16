@@ -95,9 +95,9 @@ Instructions:
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* Discussion of Docker / Containers for LLM and replication
+* Actor and org updates: [Link](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1687466)
+* 
 
 <br>
 
