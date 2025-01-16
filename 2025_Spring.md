@@ -75,9 +75,10 @@ Instructions:
 <br>
 
 **UA updates**
-* xxx
-* xxx
-* xxx
+* Still working on the MT Summet paper.
+* Dr. Osorio is calculating the [dependency distance](https://hlasse.github.io/TextDescriptives/dependencydistance.html) for each language. However, he is stuck with Arabic.
+* Hopefully we can make some progress soon.
+* The MT Summit deadline is on Jan 27. 
 
 ---
 
