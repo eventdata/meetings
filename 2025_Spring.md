@@ -51,7 +51,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 | Shreyas | ConflLlama updates | [Link to read paper](https://www.overleaf.com/read/pxfkjjvmzzdr#493ec0)  |
+|  2 | Shreyas | ConflLlama updates | [Link to read paper](https://www.overleaf.com/read/pttfrfdbtbxg#d0c1a8)  |
 | 3  | Brandt / Elliott | Review ConfliBERT Manual and replication
 | 4 | Vito / Omer | Discussion about processing hearings data |  |
 
