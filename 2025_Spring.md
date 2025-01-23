@@ -89,7 +89,7 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 | Dr. Paula Cuellar  | Exploring collaboration  | [Link](https://profiles.utdallas.edu/paula.cuellarcuellar)  |
 |  3 |  Niamat | Dynamic TKG Update |   |
-|  4 |   |   |   |
+|  4 |  Dr. Osorio | Updates on MT Summit  |   |
 
 
 <br>
