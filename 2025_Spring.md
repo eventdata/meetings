@@ -120,7 +120,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
+|  2 | D'Orazio  | AI Lightning Talk  |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
 
@@ -135,7 +135,7 @@ Instructions:
 <br>
 
 **WVU updates**
-* xxx
+* D'Orazio is giving a lightning talk on AI to the College of Liberal Arts on 1/31, will highlight our research and findings
 * xxx
 * xxx
 
