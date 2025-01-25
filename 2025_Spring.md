@@ -121,7 +121,7 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 | D'Orazio  | AI Lightning Talk  |   |
-|  3 |   |   |   |
+|  3 |  Brandt |  APSA Workshop | https://connect.apsanet.org/vrm2025/  |
 |  4 |   |   |   |
 
 
