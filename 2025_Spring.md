@@ -26,18 +26,6 @@ Instructions:
 
 <br>
 
-**UTD updates**
-* xxx
-
-
-<br>
-
-**WVU updates**
-* xxx
-
-
-<br>
-
 **UA updates**
 * Progress on MT Summit paper
 * Implementing POS analysis 
@@ -62,13 +50,6 @@ Instructions:
 * ToI update?
 * ConflLlama?
 * Checking with Sasmita on storage / data accessing across ACCESS resources
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
 
 <br>
 
@@ -97,21 +78,8 @@ Instructions:
 **UTD updates**
 * Discussion of Docker / Containers for LLM and replication
 * Actor and org updates: [Link](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1687466)
-* 
-
+  
 <br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
 
 ---
 
@@ -130,7 +98,7 @@ Instructions:
 **UTD updates**
 * ConfliBERT Items:
 - Talks
-- Slides
+- Slides : https://www.overleaf.com/6729887914ghmmtzqsyrkr#fd84e7
 - Replication / Github updates
 - Dockerized version
 * ConflLlama paper
