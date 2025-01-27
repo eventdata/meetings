@@ -128,9 +128,12 @@ Instructions:
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* ConfliBERT Items:
+- Talks
+- Slides
+- Replication / Github updates
+- Dockerized version
+* ConflLlama paper
 
 <br>
 
