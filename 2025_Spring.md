@@ -87,17 +87,17 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  1 |  Dr. Brandt  | Opening discussion  | https://new.nsf.gov/executive-orders  |
 |  2 | D'Orazio  | AI Lightning Talk  |   |
 |  3 |  Brandt |  APSA Workshop | https://connect.apsanet.org/vrm2025/  |
-|  4 |   |   |   |
+|  4 |   | Dockerized Confli + LLMs  |   |
 
 
 <br>
 
 **UTD updates**
 * ConfliBERT Items:
-- Talks
+- Talks upcoming
 - Slides : https://www.overleaf.com/6729887914ghmmtzqsyrkr#fd84e7
 - Replication / Github updates
 - Dockerized version
@@ -107,7 +107,6 @@ Instructions:
 
 **WVU updates**
 * D'Orazio is giving a lightning talk on AI to the College of Liberal Arts on 1/31, will highlight our research and findings
-* xxx
 * xxx
 
 <br>
