@@ -123,9 +123,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 |  Brandt and Meher | Workshops and demos  |  Look here : https://github.com/eventdata/ConfliBERT/tree/main |
+|  3 | Javier  | MT / Multilingual paper and next steps  |   |
+|  4 |   | Confli+LLM  | TBD |
 
 
 <br>
