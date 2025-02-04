@@ -129,6 +129,7 @@ Instructions:
 * APSA Workshop
 * Houston TexMeth
 * ConfliBERT 2.0 RFP discussions
+* See this paper: Croicu and von der Maase | From Newswire to Nexus | https://arxiv.org/pdf/2501.03928
 
 <br>
 
