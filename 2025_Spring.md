@@ -107,14 +107,8 @@ Instructions:
 
 **WVU updates**
 * D'Orazio is giving a lightning talk on AI to the College of Liberal Arts on 1/31, will highlight our research and findings
-* xxx
 
 <br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
 
 ---
 
@@ -131,9 +125,10 @@ Instructions:
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* ConflLlama
+* APSA Workshop
+* Houston TexMeth
+* ConfliBERT 2.0 RFP discussions
 
 <br>
 
