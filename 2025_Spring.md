@@ -117,7 +117,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  Brandt and Meher | Workshops and demos  |  Look here : https://github.com/eventdata/ConfliBERT/tree/main |
+|  2 |  Brandt and Meher | Workshops and demos  |  Look here : https://github.com/eventdata/ConfliBERT/tree/main & https://huggingface.co/spaces/eventdata-utd/ConfliBERT-GUI-v2 & https://github.com/shreyasmeher/ConfliBERT-gui|
 |  3 | Javier  | MT / Multilingual paper and next steps  |   |
 |  4 | Cuellar | Human Rights Program Data | https://cla.umn.edu/human-rights/engagement/press-reporting-disappearances-mexico/about-research|
 |  5 |   | Confli+LLM  | TBD |
