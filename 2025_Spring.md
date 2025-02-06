@@ -119,7 +119,7 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Brandt and Meher | Workshops and demos  |  Look here : https://github.com/eventdata/ConfliBERT/tree/main & https://huggingface.co/spaces/eventdata-utd/ConfliBERT-GUI-v2 & https://github.com/shreyasmeher/ConfliBERT-gui|
 |  3 | Osorio  | MT / Multilingual paper and next steps  |   |
-| 4 | Osorio | APSA Workshop update |
+| 4 | Osorio | APSA Workshop update | https://eventdata.utdallas.edu/apsa-workshop/ |
 |  5 | Cuellar | Human Rights Program Data | https://cla.umn.edu/human-rights/engagement/press-reporting-disappearances-mexico/about-research|
 |  6 |   | Confli+LLM  | TBD |
 
