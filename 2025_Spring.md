@@ -154,7 +154,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
+|  2 | Javier  | Agile dashboard  |  [Linear]([http://example.com](https://linear.app/uautd/team/UAU/projects/all)) |
 |  3 |   |   |   |
 |  4 |   |   |   |
 
