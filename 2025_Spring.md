@@ -135,18 +135,6 @@ Instructions:
 
 <br>
 
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
 ## February 13, 2025 
@@ -158,20 +146,6 @@ Instructions:
 |  3 |   |   |   |
 |  4 |   |   |   |
 
-
-<br>
-
-**UTD updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
 
 <br>
 
@@ -188,8 +162,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
+|  2 |  Dr. Brandt | LSE Workshop proposal  | https://www.lse.ac.uk/Methodology/Research/Call-for-papers  |
+|  3 |   | APSA Workshop Planning  |   |
 |  4 |   |   |   |
 
 
