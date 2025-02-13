@@ -154,7 +154,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 | Javier  | Agile dashboard  |  (Linear)[http://example.com](https://linear.app/uautd/team/UAU/projects/all]|
+|  2 | Javier  | Agile dashboard  |  Linear [https://linear.app/uautd/team/UAU/projects/all]|
 |  3 |   |   |   |
 |  4 |   |   |   |
 
@@ -176,9 +176,10 @@ Instructions:
 <br>
 
 **UA updates**
-* xxx
-* xxx
-* xxx
+* Trying to implement Agile
+* Projects on active learning (Naif / Afraa)
+* MT summit
+* ConfliBERT Hindi
 
 ---
 
