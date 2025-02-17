@@ -164,7 +164,7 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Dr. Brandt | LSE Workshop proposal  | https://www.lse.ac.uk/Methodology/Research/Call-for-papers  |
 |  3 | Dr. Osorio  | APSA Workshop Planning  |   |
-|  4 |  Dr. Brandt | Future Conferences |   |
+|  4 |  Dr. Brandt | Future Conferences |  See list below |
 
 
 <br>
@@ -173,9 +173,9 @@ Instructions:
 * Use cases review
 * Fine Tuning + Active Learning
 * Lifecycle + LLM updates
-* MapleMeth deadline
-* POLMETH : Emory July 17-19, 2025
-* IC2S2 call: Sweden July 22-24, 2025
+* MapleMeth Meeting at SFU in British Columbia, June 28-29, 2025, https://www.sfu.ca/people/mpickup/maplemeth2025.html 
+* POLMETH : Meeting at Emory, July 17-19, 2025, https://polmeth.emory.edu/
+* IC2S2 call: Meeting at Norrköping, Sweden,  July 22-24, 2025: https://www.ic2s2-2025.org/
 
 <br>
 
