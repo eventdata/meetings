@@ -163,9 +163,9 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Dr. Brandt | LSE Workshop proposal  | https://www.lse.ac.uk/Methodology/Research/Call-for-papers  |
-|  3 | Dr. Osorio  | APSA Workshop Planning  |   |
-|  4 |  Dr. Brandt | Future Conferences |  See list below |
-
+|  3 | Dr. Osorio  | APSA Workshop Planning  | Next steps? |
+|  4 | Dr. Osorio | Agile dashboard  |  Linear [https://linear.app/uautd/team/UAU/projects/all]|
+|  5 |  Dr. Brandt | Future Conferences |  See list below |
 
 <br>
 
