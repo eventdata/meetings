@@ -173,9 +173,9 @@ Instructions:
 * Use cases review
 * Fine Tuning + Active Learning
 * Lifecycle + LLM updates
-* MapleMeth Meeting at SFU in British Columbia, June 28-29, 2025, https://www.sfu.ca/people/mpickup/maplemeth2025.html 
-* POLMETH : Meeting at Emory, July 17-19, 2025, https://polmeth.emory.edu/
-* IC2S2 call: Meeting at Norrköping, Sweden,  July 22-24, 2025: https://www.ic2s2-2025.org/
+* MapleMeth Meeting at SFU in British Columbia, June 28-29, 2025, https://www.sfu.ca/people/mpickup/maplemeth2025.html (Deadline is March 7, 2025)
+* POLMETH : Meeting at Emory, July 17-19, 2025, https://polmeth.emory.edu/ (Deadline is March, 15, 2025)
+* IC2S2 call: Meeting at Norrköping, Sweden,  July 22-24, 2025: https://www.ic2s2-2025.org/ (Deadline is 2/24)
 
 <br>
 
