@@ -179,21 +179,9 @@ Instructions:
 
 <br>
 
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
-## Date 
+## Date Template -- Copy again for additional dates and notes.
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
