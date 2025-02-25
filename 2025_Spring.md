@@ -189,6 +189,7 @@ Instructions:
 |  2 | Dr. Osorio  | APSA Conference  |   |
 |  3 | Dr. Brandt  | PA R&R plans |   |
 |  4 | Dagmar(?)  | EU Parallel Corpus  |  
+| 5 | Niamat | Network questions and update |
 
 - [EU Parallel Corpus](https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en)
 - [Steinberger, R., Ebrahim, M., Poulis, A. et
@@ -199,9 +200,10 @@ Instructions:
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* ConfLlama is under review at R&P
+* PA R&R
+* Parallel corpus investigation
+* Dagmar's data / heterogenous input and training data problems.
 
 <br>
 
