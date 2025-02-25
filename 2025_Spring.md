@@ -189,10 +189,11 @@ Instructions:
 |  2 | Dr. Osorio  | APSA Conference  |   |
 |  3 | Dr. Brandt  | PA R&R plans |   |
 |  4 | Dagmar(?)  | EU Parallel Corpus  |  
-      [Link](https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en) |
-| | | | | [Steinberger, R., Ebrahim, M., Poulis, A. et
+
+- [EU Parallel Corpus](https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en)
+- [Steinberger, R., Ebrahim, M., Poulis, A. et
     al. An overview of the European Union’s highly multilingual
-    parallel corpora. Lang Resources & Evaluation 48, 679–707 (2014)](https://doi.org/10.1007/s10579-014-9277-0) |
+    parallel corpora. Lang Resources & Evaluation 48, 679–707 (2014)](https://doi.org/10.1007/s10579-014-9277-0) 
 
 
 <br>
