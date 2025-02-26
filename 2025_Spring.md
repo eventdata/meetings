@@ -195,7 +195,7 @@ Instructions:
 - [Steinberger, R., Ebrahim, M., Poulis, A. et
     al. An overview of the European Union’s highly multilingual
     parallel corpora. Lang Resources & Evaluation 48, 679–707 (2014)](https://doi.org/10.1007/s10579-014-9277-0)
-- IC2S2 call: Meeting at Norrköping, Sweden, July 22-24, 2025: https://www.ic2s2-2025.org/ (Deadline updated to 2/26)
+- IC2S2 call: ConflLlama abstract submitted (Deadline updated to 2/26)
 
 
 <br>
