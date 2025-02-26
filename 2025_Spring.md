@@ -186,7 +186,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 | Dr. Osorio  | APSA Conference  |   |
+|  2 | Dr. Osorio  | APSA VRM  | [APSA VRM](https://docs.google.com/spreadsheets/d/1OhhrHRa5A03lXtk07H4VQqPUbb8oPNce/edit?usp=sharing&ouid=112320531151373176137&rtpof=true&sd=true)  |
 |  3 | Dr. Brandt  | PA R&R plans |   |
 |  4 | Dagmar(?)  | EU Parallel Corpus  |  
 | 5 | Niamat | Network questions and update |
@@ -216,8 +216,17 @@ Instructions:
 <br>
 
 **UA updates**
-* xxx
-* xxx
+* Participants
+   * 47 applicants (all accepted?)
+   * 7 presenters  
+* APSA Session 1
+   * Opening remakrs (15 minutes)
+   * ConfliBERT family (15 mins)
+   * Examples of applications
+   * Tutorial 
+* APSA Session 4
+   * Breakout rooms
+   * Closing remarks
 * xxx
 
 ---
