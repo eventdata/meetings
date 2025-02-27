@@ -31,7 +31,7 @@ Pay particular attention to the information sources and volume of corpus used fo
 
 <br />
 
-![alt text](https://github.com/eventdata/meetings/blob/main/Figures/stop.png "Title"){width=600 height=200}
+![alt text](https://github.com/eventdata/meetings/blob/main/Figures/stop.png "Title")
 
 Seriously, please read the thee papers listed above. Then you can keep going. 
 
