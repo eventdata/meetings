@@ -208,13 +208,6 @@ Instructions:
 
 <br>
 
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
 **UA updates**
 * Participants
    * 47 applicants (all accepted?)
@@ -236,9 +229,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
+|  3 |  Brandt | APSA Workshop prelim  | weblinks / survey TBD  |
+|  4 |  TBD | Collab Tutorial outline  | ??  |
 
 
 <br>
