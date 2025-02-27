@@ -6,6 +6,8 @@ Welcome to our working group!
 
 If you are new to this project, we strongly encourage you to familiarize yourself with the basic content of this page. This will help you to jump right into the conversations we are having during our weekly meetings. Gaining familiarity with the history of this project will avoid confusions and waste of time (for you and the rest of the team).
 
+Keep the following URLs handy as reference for all the work we have been producing under this project.
+
    * [Project's main website](https://eventdata.utdallas.edu/)
    * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT)
    * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd)
