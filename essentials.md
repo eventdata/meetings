@@ -65,9 +65,9 @@ Here are a few basic guidelines to keep in mind:
    * Please use headers and subheaders in your scripts to clearly structure and organize your work.
    * Make **excessive use of comments** to describe procedures and steps in your code. Ideally, you should document this for each single command.
    * This takes a concious documentation effort in structuring and conducting your work at every step. It will be hard at the beginning, but eventually it should flow naturally.
-3. ** Use snake_case convention**.
+3. **Use snake_case convention**.
    * Try to use the `snake_case` for file nomenclature, variable names, and for developing your script.
-   * Try to avoid the use of special characters for file or variable names (e.g. `:`, `*`, `#`, `!`, etc.).
+   * Avoid at all costs the use of special characters for file or variable names (e.g. `:`, `*`, `#`, `!`, etc.).
 4. **Use prefixes for sequential steps.** 
    * Try to use numeric prefixes in your folder and file names (e.g. `1_filename`) to indicate steps or scripts that should be run in sequential order.
 5. **Use sufixes for version control.** 
