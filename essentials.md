@@ -2,7 +2,9 @@
 
 <br />
  
-Welcome to our working group! If you are new to this project, we strongly encourage you to familiarize yourself with the basic content of this page. This will help you to jump right into the conversations we are having during our weekly meetings. Gaining familiarity with the history of this project will avoid confusions and waste of time (for you and the rest of the team).
+Welcome to our working group! 
+
+If you are new to this project, we strongly encourage you to familiarize yourself with the basic content of this page. This will help you to jump right into the conversations we are having during our weekly meetings. Gaining familiarity with the history of this project will avoid confusions and waste of time (for you and the rest of the team).
 
 This is the project's [main website](https://eventdata.utdallas.edu/)
 
