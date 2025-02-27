@@ -189,7 +189,6 @@ Instructions:
 |  2 | Dr. Osorio  | APSA VRM  | [APSA VRM](https://docs.google.com/spreadsheets/d/1OhhrHRa5A03lXtk07H4VQqPUbb8oPNce/edit?usp=sharing&ouid=112320531151373176137&rtpof=true&sd=true)  |
 |  3 | Dr. Brandt  | PA R&R plans |   |
 |  4 | Dagmar(?)  | EU Parallel Corpus  |  
-| 5 | Niamat | Network questions and update |
 
 - [EU Parallel Corpus](https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en)
 - [Steinberger, R., Ebrahim, M., Poulis, A. et
@@ -232,6 +231,7 @@ Instructions:
 |  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
 |  3 |  Brandt | APSA Workshop prelim  | weblinks / survey TBD  |
 |  4 |  TBD | Collab Tutorial outline  | ??  |
+| 5 | Niamat | Network analysis update |
 
 
 <br>
