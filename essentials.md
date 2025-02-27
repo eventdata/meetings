@@ -6,29 +6,28 @@ Welcome to our working group!
 
 If you are new to this project, we strongly encourage you to familiarize yourself with the basic content of this page. This will help you to jump right into the conversations we are having during our weekly meetings. Gaining familiarity with the history of this project will avoid confusions and waste of time (for you and the rest of the team).
 
-This is the project's [main website](https://eventdata.utdallas.edu/)
+   * [Project's main website](https://eventdata.utdallas.edu/)
+   * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT)
+   * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd)
 
 <br />
----
 
 ## ConfliBERT BASIC DEVELOPMENTS
 
-Please read the papers presenting the ConfliBERT family models. Pay particular attention at the source and volume of corpus used for pre-training. Also, please identify the databases and specific tasks used in the downstream applications in each paper. 
+Please read the papers presenting the ConfliBERT family models in English, Spanish, and Arabic. 
+Pay particular attention to the information sources and volume of corpus used for pre-training ConfliBERT in each language. You also want to identify the different versions of ConfliBERT (continual/from scratch, cased/uncased) available in each language. Also pay attention to the databases and specific tasks used in the downstream applications in each paper. 
 
 * **ConfliBERT English**
    * Paper [Hu et al. (2022)](https://aclanthology.org/2022.naacl-main.400/)
-   * GitHub TBD
+
 
 * **ConfliBERT Spanish**
    * Paper [Yang et al. (2023)](https://ieeexplore.ieee.org/document/10409883)
-   * GitHub TBD
 
 * **ConfliBERT Arabic**
-   * [Alsarra et al. (2023)](https://aclanthology.org/2023.ranlp-1.11/)
-   * GitHub TBD
+   * Paper [Alsarra et al. (2023)](https://aclanthology.org/2023.ranlp-1.11/)
 
 <br />
----
 
 ## SPECIALIZED TOPICS
 
@@ -36,7 +35,6 @@ Please read the papers presenting the ConfliBERT family models. Pay particular a
 
 
 <br />
----
 
 ## DOCUMENT YOUR WORK
 
