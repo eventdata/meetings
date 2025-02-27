@@ -31,6 +31,14 @@ Pay particular attention to the information sources and volume of corpus used fo
 
 <br />
 
+![Stop]([http://url/to/img.png](https://stopreadgo.com/wp-content/uploads/2020/01/cropped-cropped-cropped-StopReadGoLogo.png))
+
+
+
+<br />
+
+
+
 ## SPECIALIZED TOPICS
 
 * Group other papers by topic.
