@@ -51,7 +51,7 @@ In this project, we abide by the [FAIR principles](https://www.go-fair.org/fair-
 * **R**euse of digital assets
 
 The overall objective is that all your data, scripts, and results should be easily accessible and replicable by anyone. 
-Here *anyone* means any member of our team, but also any external user who may not have any idea about the project or even advanced computer science skills. 
+Here, "*anyone*" means any member of our team, but also any external user who may not have any idea about the project or even advanced computer science skills. 
 So, please make sure you structure your work flow, organize your data, write your scripts, and specific routines and commands in a way that anyone can follow your work.
 
 Here are a few basic guidelines to keep in mind:
