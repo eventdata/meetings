@@ -41,7 +41,7 @@ Seriously, please read the thee papers listed above. Then you can keep going.
 
 ## SPECIALIZED TOPICS
 
-* Group other papers by topic.
+* Group other papers by topic TBD.
 
 
 <br />
