@@ -44,6 +44,22 @@ Seriously, please read the thee papers listed above. Then you can keep going.
 * Group other papers by topic TBD.
 
 
+
+<br />
+
+## MEETING ETIQUETTE
+
+When participating in our meetings, please:
+* Arrive on time
+* Turn your camera on
+* Keep your microphone off (unless you are speaking, of course)
+
+If you want present your progress, please:
+* Include your name in the [Spring 2025 schedule](2025_Spring.md)
+* If relevant, include the URLs for the resources you want to discuss.
+* Let's try to respect the order of cotributors listed in the agenda.
+* Please be mindful of the time, so keep your contributions on point.
+
 <br />
 
 ## DOCUMENT YOUR WORK
