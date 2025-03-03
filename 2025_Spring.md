@@ -237,9 +237,11 @@ Instructions:
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* PA Response 
+* APSA setup / background
+- Qualtric questions
+- other issues
+
 
 <br>
 
