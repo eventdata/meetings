@@ -228,10 +228,10 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
----|  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |---
+| 2 | D'Orazio and Heintze | ISA feedback? | |
 |  3 |  Brandt / Osorio | APSA Workshop prelim  | weblinks / survey TBD  |
-| 4 | Niamat | Network analysis update |
-|  5 |  Brandt | Collab Tutorial outline  | ??  |
+|  4 |  Brandt | Collab Tutorial outline  |  |
+| 5 | Niamat | Network analysis update | |
 
 <br>
 
@@ -241,18 +241,6 @@ Instructions:
 
 <br>
 
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
 ## March 13, 2025 
@@ -260,7 +248,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
+|  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
 
