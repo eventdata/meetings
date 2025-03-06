@@ -229,7 +229,7 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 | 2 | D'Orazio and Heintze | ISA feedback? | |
-|  3 |  Brandt / Osorio | APSA Workshop prelim  | weblinks / survey TBD  |
+|  3 |  Brandt / Osorio | APSA Workshop prelim  | [weblinks](https://eventdata.utdallas.edu/apsa-workshop/) / [survey](https://forms.gle/HYmvsb84iVT3CqVh7)   |
 |  4 |  Brandt | Collab Tutorial outline  |  |
 | 5 | Niamat | Network analysis update | |
 
