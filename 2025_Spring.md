@@ -228,7 +228,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
+---|  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |---
 |  3 |  Brandt / Osorio | APSA Workshop prelim  | weblinks / survey TBD  |
 | 4 | Niamat | Network analysis update |
 |  5 |  Brandt | Collab Tutorial outline  | ??  |
