@@ -249,15 +249,15 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
-|  3 |   |   |   |
+|  3 |  Dr. Brandt | Tutorial devel  | See collab shared last wk in Teams |
 |  4 |   |   |   |
 
 
 <br>
 
 **UTD updates**
-* xxx
-* xxx
+* GLOCON as training data / tuning example (have the DB, working on corpora)
+* 
 * xxx
 
 <br>
