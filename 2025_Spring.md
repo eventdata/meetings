@@ -250,8 +250,8 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
 |  3 |  Dr. Brandt | Tutorial devel  | See collab shared last wk in Teams |
-|  4 |   |   |   |
-
+|  4 | Dr. Osorio  | APSA VRM updates  | Schedule, presenters, participants, survey |
+|  5 |   |   |   |
 
 <br>
 
@@ -271,9 +271,24 @@ Instructions:
 <br>
 
 **UA updates**
-* xxx
-* xxx
-* xxx
+* APSA is moving very slowly
+   * Still not response on the schedule
+   * No information about whether the new requested participants have been invited
+   * No information on registrations
+* Workshop
+   * Proposed schedule
+   * Confirmation from paper presenters
+   * Survey responses [here](https://docs.google.com/forms/d/1osb01rYWce9shko4lC5_K_eca817LEsAZyoD7FxnGac/edit#responses)
+* Next steps
+   * Update project website (conditional on APSA)
+   * Reminder to register at APSA (conditional on APSA)
+   * Reminder to respond the survey
+   * Reminder to presenters
+   * Upload papers to Dropbox folder
+* Operating outside APSA?
+   * We could use the Arizona Zoom
+   * Manage participants
+   * Manager breakout rooms
 
 ---
 
