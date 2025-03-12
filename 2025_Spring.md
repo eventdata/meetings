@@ -272,19 +272,20 @@ Instructions:
 
 **UA updates**
 * APSA is moving very slowly
-   * Still not response on the schedule
+   * APSA schedule [here](https://connect.apsanet.org/vrm2025/schedule-at-a-glance/)
    * No information about whether the new requested participants have been invited
    * No information on registrations
 * Workshop
-   * Proposed schedule
+   * Proposed schedule declined
+   * Participants [here](https://docs.google.com/spreadsheets/d/1CkG0Jt-txPFuH9r9KVaFF8a-e3p5J1k4/edit?usp=sharing&ouid=112320531151373176137&rtpof=true&sd=true)
    * Confirmation from paper presenters
    * Survey responses [here](https://docs.google.com/forms/d/1osb01rYWce9shko4lC5_K_eca817LEsAZyoD7FxnGac/edit#responses)
 * Next steps
    * Update project website (conditional on APSA)
-   * Reminder to register at APSA (conditional on APSA)
-   * Reminder to respond the survey
-   * Reminder to presenters
-   * Upload papers to Dropbox folder
+   * Reminder to register via APSA (done 3/12/25)
+   * Reminder to respond the survey (done 3/12/25)
+   * Reminder to pending presenters (done 3/12/25)
+   * Upload papers to Dropbox folder 
 * Operating outside APSA?
    * We could use the Arizona Zoom
    * Manage participants
