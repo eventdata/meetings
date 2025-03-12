@@ -259,7 +259,7 @@ Instructions:
 * GLOCON as training data / tuning example (have the DB, working on corpora)
 * PA Response : implemented with track changes in Overleaf.  Started a response memo as well.
 * Discussing addressing heterogenous training and extraction across newly learned ontologies (for Dagmar's work)
-* 
+* ConflLlama accepted to APSA main conference (September, 2025) 
 
 <br>
 
