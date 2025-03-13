@@ -251,7 +251,7 @@ Instructions:
 |  2 |  Cuellar-Cuellar | UMN / HR Collab  |   |
 |  3 |  Dr. Brandt | Tutorial devel  | See collab shared last wk in Teams |
 |  4 | Dr. Osorio  | APSA VRM updates  | Schedule, presenters, participants, survey |
-|  5 |   |   |   |
+
 
 <br>
 
@@ -260,13 +260,6 @@ Instructions:
 * PA Response : implemented with track changes in Overleaf.  Started a response memo as well.
 * Discussing addressing heterogenous training and extraction across newly learned ontologies (for Dagmar's work)
 * ConflLlama accepted to APSA main conference (September, 2025) 
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
 
 <br>
 
