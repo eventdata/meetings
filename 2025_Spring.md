@@ -291,11 +291,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
+|  2 |  Dr. Alsarra | Updates on Active Learning Papers |   |
+|  3 | Dr. Osorio  | TBD for APSA Panels  |   |
 |  4 |   |   |   |
-
-
 
 <br>
 
