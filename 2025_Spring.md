@@ -297,25 +297,6 @@ Instructions:
 
 <br>
 
-**UTD updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
 ## March 27, 2025 
@@ -323,17 +304,18 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 |  Dagmar | Data Overview and Processing for NPM reports | https://www.ohchr.org/en/treaty-bodies/spt/annual-reports-received-subcommittee-national-preventive-mechanisms  |
+|  3 | TBD  | APSA Meeting Updates |   |
+|  4 | Dr. Brandt  | ConfliBERT and other R&R's  |   |
 
 
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* Dagmar's document
+* Framing of our work generally across papers: the frames people want or need are not the same as what we are doing.
+* GloCon update?
+* 
 
 <br>
 
