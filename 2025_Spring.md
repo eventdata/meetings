@@ -305,7 +305,7 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Dagmar | Data Overview and Processing for NPM reports | https://www.ohchr.org/en/treaty-bodies/spt/annual-reports-received-subcommittee-national-preventive-mechanisms  |
-|  3 | TBD  | APSA Meeting Updates |   |
+|  3 | D'Orazio  | APSA Tutorial walkthrough | https://colab.research.google.com/drive/1RPyrX0c8FeZbvx_Ad8QI_2GMYbAr3fd_?usp=sharing  |
 |  4 | Dr. Brandt  | ConfliBERT and other R&R's  |   |
 
 
