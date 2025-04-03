@@ -315,21 +315,8 @@ Instructions:
 * Dagmar's document
 * Framing of our work generally across papers: the frames people want or need are not the same as what we are doing.
 * GloCon update?
-* 
 
 <br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
 
 ---
 
@@ -338,8 +325,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
+|  2 |   | APSA Meeting Logistics  | https://eventdata.utdallas.edu/apsa-workshop/  |
+|  3 |   | Tasks for next week  |   |
 |  4 |   |   |   |
 
 
