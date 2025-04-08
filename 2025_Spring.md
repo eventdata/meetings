@@ -332,59 +332,13 @@ Instructions:
 
 <br>
 
-**UTD updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
 ## April 10, 2025 
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
-
-
-
-
-<br>
-
-**UTD updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
+|  1 |  Dr. Brandt  | APSA Meeting this week!  |   |
 
 ---
 
@@ -393,17 +347,16 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
+|  2 | Niamat and Ashton  |  Docker + ConfiBERT |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
-
 
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* Post APSA discussion
+* Future projects: ToI, applications
+* Add entity predictions in networks?  Any new results -> node clustering?
 
 <br>
 
