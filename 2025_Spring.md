@@ -343,7 +343,8 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion / Post-APSA | [Meeting Link](https://eventdata.utdallas.edu/apsa-workshop/)  |
 |  2 | Niamat and Ashton  |  Docker + ConfiBERT |   |
 |  3 | Dr. Meher  | ConflimBERT  |   |
-|  4 | Dr. Brandt |  Plan for R&R's |   |
+| 4 | Dr. Brandt | Future Delta / Compute allocation |
+|  5 | Dr. Brandt |  Plan for R&R's |   |
 
 <br>
 
@@ -352,7 +353,7 @@ Instructions:
 * Future projects: ToI for protests in India, applications
 * Add entity predictions in networks?  Any new results -> node clustering?
 * GLOCON data uses: how do we us their texts and GSRs?
-*  
+* Delta allocations
 
 <br>
 
