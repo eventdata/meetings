@@ -1,4 +1,4 @@
-# Spring 2025 meeting schedude
+# Spring 2025 meeting schedule
 
 Instructions:
 * We meet on Thursdays at:
