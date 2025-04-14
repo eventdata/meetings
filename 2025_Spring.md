@@ -143,9 +143,6 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 | Javier  | Agile dashboard  |  Linear [https://linear.app/uautd/team/UAU/projects/all]|
-|  3 |   |   |   |
-|  4 |   |   |   |
-
 
 <br>
 
@@ -293,7 +290,6 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |  Dr. Alsarra | Updates on Active Learning Papers |   |
 |  3 | Dr. Osorio  | TBD for APSA Panels  |   |
-|  4 |   |   |   |
 
 <br>
 
@@ -327,8 +323,6 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 |   | APSA Meeting Logistics  | https://eventdata.utdallas.edu/apsa-workshop/  |
 |  3 |   | Tasks for next week  |   |
-|  4 |   |   |   |
-
 
 <br>
 
@@ -346,17 +340,19 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  1 |  Dr. Brandt  | Opening discussion / Post-APSA | https://eventdata.utdallas.edu/apsa-workshop/  |
 |  2 | Niamat and Ashton  |  Docker + ConfiBERT |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  3 | Dr. Meher  | ConflimBERT  |   |
+|  4 | Dr. Brandt |  Plan for R&R's |   |
 
 <br>
 
 **UTD updates**
 * Post APSA discussion
-* Future projects: ToI, applications
+* Future projects: ToI for protests in India, applications
 * Add entity predictions in networks?  Any new results -> node clustering?
+* GLOCON data uses: how do we us their texts and GSRs?
+*  
 
 <br>
 
