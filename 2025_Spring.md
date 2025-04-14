@@ -340,7 +340,7 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion / Post-APSA | https://eventdata.utdallas.edu/apsa-workshop/  |
+|  1 |  Dr. Brandt  | Opening discussion / Post-APSA | [Meeting Link](https://eventdata.utdallas.edu/apsa-workshop/)  |
 |  2 | Niamat and Ashton  |  Docker + ConfiBERT |   |
 |  3 | Dr. Meher  | ConflimBERT  |   |
 |  4 | Dr. Brandt |  Plan for R&R's |   |
