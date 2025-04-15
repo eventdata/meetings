@@ -345,7 +345,7 @@ Instructions:
 |  3 | Dr. Meher  | ConflimBERT  |   |
 | 4 | Dr. Brandt | Future Delta / Compute allocation |
 |  5 | Dr. Brandt |  Plan for R&R's |   |
-
+| 6 | Niamat | Possible ICEWS network updates | |
 <br>
 
 **UTD updates**
@@ -354,6 +354,7 @@ Instructions:
 * Add entity predictions in networks?  Any new results -> node clustering?
 * GLOCON data uses: how do we us their texts and GSRs?
 * Delta allocations
+* Network progress
 
 <br>
 
