@@ -366,17 +366,19 @@ Instructions:
 |---|---|---|---|
 |  1 |  Someone?  | Opening discussion  |   |
 |  2 | Drs. Brandt / Meher | R&Rs (PA and R&P)  |   |
-|  3 |   |   |   |
+|  3 | Everyone | Review website for missing things  | [website](https://eventdata.utdallas.edu) |
 |  4 |   |   |   |
 
-Dr. Brandt will be late to the meeting this week (prior commitment).
+Dr. Brandt will be late or missing the meeting this week (prior commitment).
 
 <br>
 
 **UTD updates**
 * Quick guides / setup for using HPCs for this work (Delta, Juno, Thorny Flat, etc.)
 * Can we get an overview of what Omer and Margaret are doing?  Lot's of questions on how this works.
-* Setup for ToI.
+* Have meetings on 4/30 and 5/1 for [Convergence AI Dallas](https://convergencedallas.ai/)
+* Setup for ToI.  
+
 
 <br>
 
