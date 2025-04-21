@@ -358,36 +358,25 @@ Instructions:
 
 <br>
 
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
 ## April 24, 2025 
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
+|  1 |  Someone?  | Opening discussion  |   |
+|  2 | Drs. Brandt / Meher | R&Rs (PA and R&P)  |   |
 |  3 |   |   |   |
 |  4 |   |   |   |
 
+Dr. Brandt will be late to the meeting this week (prior commitment).
 
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* Quick guides / setup for using HPCs for this work (Delta, Juno, Thorny Flat, etc.)
+* Can we get an overview of what Omer and Margaret are doing?  Lot's of questions on how this works.
+* Setup for ToI.
 
 <br>
 
