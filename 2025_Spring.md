@@ -379,21 +379,6 @@ Dr. Brandt will be late or missing the meeting this week (prior commitment).
 * Have meetings on 4/30 and 5/1 for [Convergence AI Dallas](https://convergencedallas.ai/)
 * Setup for ToI.  
 
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
-
 ---
 
 ## May 1, 2025 
@@ -401,19 +386,19 @@ Dr. Brandt will be late or missing the meeting this week (prior commitment).
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
-
-
+|  2 | Shreyas | Paper R&R's status?  |   |
+| 3 | | Updates from Wenbo, Naif, etc. | |
+|  4 |   | Future deliverables  |   |
+|  5 |   | Future conference plans  |   |
 
 
 <br>
 
 **UTD updates**
-* xxx
-* xxx
-* xxx
+* Setups for summer tasks: ToI, networks, ??
+* Timing for a meeting with Sasmita for HPC + Containerization discussions
+* Convergence AI Meeting updates https://convergencedallas.ai/
+* 
 
 <br>
 
