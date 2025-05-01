@@ -398,21 +398,9 @@ Dr. Brandt will be late or missing the meeting this week (prior commitment).
 * Setups for summer tasks: ToI, networks, ??
 * Timing for a meeting with Sasmita for HPC + Containerization discussions
 * Convergence AI Meeting updates https://convergencedallas.ai/
-* 
+
 
 <br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
 
 ---
 
