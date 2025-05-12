@@ -409,9 +409,11 @@ Dr. Brandt will be late or missing the meeting this week (prior commitment).
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 | Wenbo  | ConfiBERT learning updates |   |
+|  3 |  Omer / Vito | Any updates? |   |
+| 4 | Sultan | Lifecycle paper | |
+|  5 |   | Summer plans  |   |
+| 6 | Shreyas | Handoffs | | 
 
 
 <br>
