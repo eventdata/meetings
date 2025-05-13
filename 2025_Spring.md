@@ -415,27 +415,7 @@ Dr. Brandt will be late or missing the meeting this week (prior commitment).
 |  5 |   | Summer plans  |   |
 | 6 | Shreyas | Handoffs | | 
 
-
 <br>
-
-**UTD updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**WVU updates**
-* xxx
-* xxx
-* xxx
-
-<br>
-
-**UA updates**
-* xxx
-* xxx
-* xxx
 
 ---
 
