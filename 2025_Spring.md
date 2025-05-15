@@ -404,22 +404,22 @@ Dr. Brandt will be late or missing the meeting this week (prior commitment).
 
 ---
 
-## May 8, 2025 
+## May 15, 2025 
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 | Wenbo  | ConfiBERT learning updates |   |
-|  3 |  Omer / Vito | Any updates? |   |
-| 4 | Sultan | Lifecycle paper | |
-|  5 |   | Summer plans  |   |
+| 1 |  Dr. Brandt  | Opening discussion  |   |
+| 2 | Wenbo  | ConfiBERT learning updates |   |
+| 3 |  Omer / Vito | Any updates? |   |
+| 4 | Sultan | RANLP / Learning / Lifecycle papers | |
+| 5 |   | Summer plans & Next papers / presentations |   |
 | 6 | Shreyas | Handoffs | | 
 
 <br>
 
 ---
 
-## May 15, 2025 
+## May 22, 2025 
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
