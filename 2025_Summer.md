@@ -13,10 +13,36 @@ Instructions:
 
 ---
 
+## June, 12, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 | Niamat | Graph modeling update | [Overleaf](https://www.overleaf.com/project/6820f0291e079b1005feaf05) |
+|  3 | Dr. Brandt | Other questions (Berlin / CCEW; LMDC paper for SBP-BRIMS) |
+
 <br>
 
-## *Template*
-## Month, Day, 2025
+**UTD Updates**
+* Patrick and Dagmar are working on NSF report
+* Soliciting ideas for demos and videos.  Send to Ashton and Ethan.
+* Setting up ToI analyses (Anish and Shreyas)
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+
+<br>
+
+## June 19, 2025
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
@@ -38,6 +64,152 @@ Instructions:
 *
 
 <br>
+
+## June 26, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 |  |  |  |
+<br>
+
+**UTD Updates**
+*
+*
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+## July 3, 2025 (NO MEETING!!)
+
+
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 |  |  |  |
+<br>
+
+**UTD Updates**
+*
+*
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+## July 3, 2025 (NO MEETING!!)
+
+## July 10, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 |  |  |  |
+<br>
+
+**UTD Updates**
+*
+*
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+## July 17, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 |  |  |  |
+<br>
+
+**UTD Updates**
+*
+*
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+## July 24, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 |  |  |  |
+<br>
+
+**UTD Updates**
+*
+*
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+## July 31, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  Dr. Brandt  | Opening discussion  |   |
+|  2 |  |  |  |
+<br>
+
+**UTD Updates**
+*
+*
+
+**UA updates**
+* 
+*
+
+
+**WVU updates**
+* 
+*
+
+<br>
+
+
+
+
 
 ## Date Template -- Copy again for additional dates and notes.
 
