@@ -2,7 +2,7 @@
 
 Instructions:
 * We meet on Thursdays at:
-  * 9:00am-10:30am AZ
+  * 8:00am-9:30am AZ (this varies by time of year with daylight savings!)
   * 10:00am-11:30am TX
   * 11:00am-12:30pm VA
   * 8:00pm-9:30pm SA 
