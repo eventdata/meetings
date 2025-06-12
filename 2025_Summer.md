@@ -18,9 +18,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 | Niamat | Graph modeling update | [Overleaf](https://www.overleaf.com/project/6820f0291e079b1005feaf05) |
-|  3 | Dr. Brandt | Other questions (Berlin / CCEW; LMDC paper for SBP-BRIMS) |
-|  4 | Brikena    | Are They Truly Lost? | [Slides](https://docs.google.com/presentation/d/1B0dF4_yhfNmm6UEmfZ1BuPid-xXm0VbwHRDVKkOmqMU/edit?usp=sharing) [IWCS25](https://iwcs2025.github.io/) [Overleaf](https://www.overleaf.com/read/rnrgphsbkgjg#a40dae)|
+|  2 | Brikena    | Are They Truly Lost? | [Slides](https://docs.google.com/presentation/d/1B0dF4_yhfNmm6UEmfZ1BuPid-xXm0VbwHRDVKkOmqMU/edit?usp=sharing) [IWCS25](https://iwcs2025.github.io/) [Overleaf](https://www.overleaf.com/read/rnrgphsbkgjg#a40dae)|
+|  3 | Niamat | Graph modeling update | [Overleaf](https://www.overleaf.com/project/6820f0291e079b1005feaf05) |
+|  4 | Dr. Brandt | Other questions (Berlin / CCEW; LMDC paper for SBP-BRIMS) |
 
 <br>
 
