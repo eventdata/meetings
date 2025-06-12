@@ -20,6 +20,7 @@ Instructions:
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 | Niamat | Graph modeling update | [Overleaf](https://www.overleaf.com/project/6820f0291e079b1005feaf05) |
 |  3 | Dr. Brandt | Other questions (Berlin / CCEW; LMDC paper for SBP-BRIMS) |
+|  4 | Brikena    | [Are They Truly Lost?](https://docs.google.com/presentation/d/1B0dF4_yhfNmm6UEmfZ1BuPid-xXm0VbwHRDVKkOmqMU/edit?slide=id.p1#slide=id.p1)|
 
 <br>
 
