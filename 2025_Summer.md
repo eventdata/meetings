@@ -29,15 +29,6 @@ Instructions:
 * Soliciting ideas for demos and videos.  Send to Ashton and Ethan.
 * Setting up ToI analyses (Anish and Shreyas)
 
-**UA updates**
-* 
-*
-
-
-**WVU updates**
-* 
-*
-
 <br>
 
 
@@ -48,7 +39,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  |  |  |
+|  2 | Dr. Cuellar-Cuellar | UMN Mexican Disappearances data | [Original database](https://cla.umn.edu/human-rights/engagement/press-reporting-disappearances-mexico) |
+| 3 | Ashton and Ethan | Questions about ConfliBERT | |
+| 4 |  | | 
 <br>
 
 **UTD Updates**
