@@ -40,8 +40,8 @@ Instructions:
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
 |  2 | Dr. Cuellar-Cuellar | UMN Mexican Disappearances data | [Original database](https://cla.umn.edu/human-rights/engagement/press-reporting-disappearances-mexico) |
-| 3 | Ashton and Ethan | Questions about ConfliBERT | |
-| 4 |  | | 
+| 3 | Ashton, Ethan, Anish | Questions about ConfliBERT |  |
+| 4 | Wenbo et al. | ConfliBERT and model updates | 
 <br>
 
 **UTD Updates**
