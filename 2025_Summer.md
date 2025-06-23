@@ -63,13 +63,17 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  |  |  |
+| 1 |  Dr. Brandt  | Opening discussion  |   |
+| 2 | Wenbo et al. | ConfliBERT and model updates | |
+| 3 | Sultan ?? | Updates on CMOT and Lifecycle papers | |
+| 4 | Dr. Brandt | Need to improve documentation across components | |
 <br>
 
 **UTD Updates**
-*
-*
+* Trying to finish NSF reporting this week (Brandt and Heintze)
+* PA paper is now back under review; R&P paper is in process.
+* Working on setups of containers and how to do more of this.
+* Discussions about data pipe / progress (Dagmar)
 
 **UA updates**
 * 
@@ -84,30 +88,7 @@ Instructions:
 
 ## July 3, 2025 (NO MEETING!!)
 
-
-
-| **Order** |  **Lead** | **Topic**  |  **URL** |  
-|---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  |  |  |
 <br>
-
-**UTD Updates**
-*
-*
-
-**UA updates**
-* 
-*
-
-
-**WVU updates**
-* 
-*
-
-<br>
-
-## July 3, 2025 (NO MEETING!!)
 
 ## July 10, 2025
 
