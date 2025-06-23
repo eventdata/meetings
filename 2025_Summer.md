@@ -44,29 +44,15 @@ Instructions:
 | 4 | Wenbo et al. | ConfliBERT and model updates | 
 <br>
 
-**UTD Updates**
-*
-*
-
-**UA updates**
-* 
-*
-
-
-**WVU updates**
-* 
-*
-
-<br>
-
 ## June 26, 2025
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 |  Dr. Brandt  | Opening discussion  |   |
 | 2 | Wenbo et al. | ConfliBERT and model updates | |
-| 3 | Sultan ?? | Updates on CMOT and Lifecycle papers | |
-| 4 | Dr. Brandt | Need to improve documentation across components | |
+| 3 |  | Papers for SBP-BRiMS | |
+| 4 | Sultan ?? | Updates on CMOT and Lifecycle papers | |
+| 5 | Dr. Brandt | Need to improve documentation across components | |
 <br>
 
 **UTD Updates**
