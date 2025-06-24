@@ -62,13 +62,9 @@ Instructions:
 * Discussions about data pipe / progress (Dagmar)
 
 **UA updates**
-* 
-*
 
 
 **WVU updates**
-* 
-*
 
 <br>
 
