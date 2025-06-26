@@ -31,9 +31,6 @@ Instructions:
 
 <br>
 
-
-<br>
-
 ## June 19, 2025
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
@@ -57,12 +54,12 @@ Instructions:
 
 **UTD Updates**
 * Trying to finish NSF reporting this week (Brandt and Heintze)
-* PA paper is now back under review; R&P paper is in process.
+* PA paper is now conditional accept; R&P paper is in process.
 * Working on setups of containers and how to do more of this.
 * Discussions about data pipe / progress (Dagmar)
+* Need to work out replication submission to PA: https://pa-replication.github.io/
 
 **UA updates**
-
 
 **WVU updates**
 
