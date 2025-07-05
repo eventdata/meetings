@@ -73,13 +73,14 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  |  |  |
+| 1 |  Dr. Brandt  | Opening discussion  |   |
+| 2 | Anish | Discussion of initial ToI results |  |
+| 3 | | |
 <br>
 
 **UTD Updates**
-*
-*
+* NSF reporting (need other PIs to do effort, travel, and collaboration reporting)
+* PA final submission (replication, edits, adding requested table edits).
 
 **UA updates**
 * 
