@@ -79,8 +79,10 @@ Instructions:
 <br>
 
 **UTD Updates**
-* NSF reporting (need other PIs to do effort, travel, and collaboration reporting)
+* NSF reporting is complete
+* ConflLlama paper is published: https://doi.org/10.1177/20531680251356282
 * PA final submission (replication, edits, adding requested table edits).
+* Working still on containers and network models....
 
 **UA updates**
 * 
