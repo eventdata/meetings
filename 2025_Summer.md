@@ -73,9 +73,9 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-| 1 |  Dr. Brandt  | Opening discussion  |   |
+| 1 | Dr. Brandt  | Opening discussion  |   |
 | 2 | Anish | Discussion of initial ToI results |  |
-| 3 | | |
+| 3 | TBD | Other updates and questions | |
 <br>
 
 **UTD Updates**
@@ -83,15 +83,12 @@ Instructions:
 * ConflLlama paper is published: https://doi.org/10.1177/20531680251356282
 * PA final submission (replication, edits, adding requested table edits).
 * Working still on containers and network models....
+* RANLP 2025 paper has been accepted (congrats to Naif and Sultan et al.)
 
 **UA updates**
-* 
-*
 
 
 **WVU updates**
-* 
-*
 
 <br>
 
