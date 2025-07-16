@@ -97,21 +97,11 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  |  |  |
+|  2 | Shreyas | PA Replication and Submission Questions |  |
+| 3 | Drs. Cuellar and Osorio | Updates on partnerships with AR and MX collaborators | [CEG UNTREF](https://crimenesdeestado.untref.edu.ar/)|
+| 4 | Sultan | Anything on his various submissions? | |
+| 5 | Wenbo, Naif, etc. | Updates on next gen version or learning models? | |
 <br>
-
-**UTD Updates**
-*
-*
-
-**UA updates**
-* 
-*
-
-
-**WVU updates**
-* 
-*
 
 <br>
 
