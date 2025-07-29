@@ -110,12 +110,18 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
+
+## July 31, 2025
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 |  | Opening discussion  |   |
 |  2 |  |  |  |
 <br>
 
 **UTD Updates**
-*
-*
+*  Have progress on containers.  Will get a review on 8/7/2025
+*  Anish should have a progress report next week.
 
 **UA updates**
 * 
@@ -128,17 +134,19 @@ Instructions:
 
 <br>
 
-## July 31, 2025
+## August 7, 2025
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  |  |  |
+|  1 | Dr. Brandt | Opening discussion  |   |
+|  2 | Ashton and Ethan | Updates on Containers / Docker / Singularity |  |
+|  3 | Dr. Brandt | Confirmation of Fall Meeting times |  |
+| 4 | Dr. D'Orazio | Plans for PSSI workshop | | 
 <br>
 
 **UTD Updates**
-*
-*
+* Discussuion about Graph RAG: https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
+* TBD
 
 **UA updates**
 * 
