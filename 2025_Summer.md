@@ -116,23 +116,11 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  | Opening discussion  |   |
-|  2 |  |  |  |
 <br>
 
 **UTD Updates**
 *  Have progress on containers.  Will get a review on 8/7/2025
 *  Anish should have a progress report next week.
-
-**UA updates**
-* 
-*
-
-
-**WVU updates**
-* 
-*
-
-<br>
 
 ## August 7, 2025
 
@@ -142,6 +130,8 @@ Instructions:
 |  2 | Ashton and Ethan | Updates on Containers / Docker / Singularity |  |
 |  3 | Dr. Brandt | Confirmation of Fall Meeting times |  |
 | 4 | Dr. D'Orazio | Plans for PSSI workshop | | 
+| 5 | Anish and Dr. Brandt | Next Steps on ToI data | Annotation and local models
+
 <br>
 
 **UTD Updates**
