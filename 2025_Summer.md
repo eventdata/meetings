@@ -138,29 +138,15 @@ Instructions:
 * Discussuion about Graph RAG: https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
 * TBD
 
-**UA updates**
-* 
-*
 
-
-**WVU updates**
-* 
-*
-
-<br>
-
-
-
-
-
-## Date Template -- Copy again for additional dates and notes.
+## August 14, 2025
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |   |   |   |
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 |  Dr. D'Orazio and Osorio| PSSI Workshop  |   |
+|  3 |  Dr. Brandt | Container updates  |   |
+|  4 |  Sultan et al. | Paper / conference / submission updates  |   |
 
 
 <br>
