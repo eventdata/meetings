@@ -8,9 +8,9 @@ If you are new to this project, we strongly encourage you to familiarize yoursel
 
 Keep the following URLs handy as reference for all the work we have been producing under this project.
 
-   * [Project's main website](https://eventdata.utdallas.edu/) (Right click + open new tab)
-   * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT) (Right click + open new tab)
-   * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd) (Right click + open new tab)
+   * [Project's main website](https://eventdata.utdallas.edu/)  
+   * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT)  
+   * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd) 
 
 <br />
 
@@ -20,20 +20,37 @@ Please read the papers presenting the ConfliBERT family models in English, Spani
 Pay particular attention to the information sources and volume of corpus used for pre-training ConfliBERT in each language. You also want to identify the different versions of ConfliBERT (continual/from scratch, cased/uncased) available in each language. Also pay attention to the databases and specific tasks used in the downstream applications in each paper. 
 
 * **ConfliBERT English**
-   * Paper [Hu et al. (2022)](https://aclanthology.org/2022.naacl-main.400/) (Right click + open new tab)
+   * Paper [Hu et al. (2022)](https://aclanthology.org/2022.naacl-main.400/)  
 
 
 * **ConfliBERT Spanish**
-   * Paper [Yang et al. (2023)](https://ieeexplore.ieee.org/document/10409883) (Right click + open new tab)
+   * Paper [Yang et al. (2023)](https://ieeexplore.ieee.org/document/10409883)  
 
 * **ConfliBERT Arabic**
-   * Paper [Alsarra et al. (2023)](https://aclanthology.org/2023.ranlp-1.11/) (Right click + open new tab)
+   * Paper [Alsarra et al. (2023)](https://aclanthology.org/2023.ranlp-1.11/)  
 
 <br />
 
 ![alt text](https://github.com/eventdata/meetings/blob/main/Figures/stop.png "Title")
 
 Seriously, please read the three papers listed above. Then you can keep going. 
+
+
+## GOT A PAPER IDEA??
+
+Awesome! We love new ideas and really like working with proactive collaborators. Before you get started with your own work, please take a look at our wotk in the [project's main website](https://eventdata.utdallas.edu/). 
+
+Here you will see our work around the following topics:
+
+* Extractive and Generative AI
+* Active Learning
+* Machine Translation
+* Zero Shot
+* Event data
+* Applications on conflict research
+
+So, before you get started, please get yourself familiar with the work that we have been doing. That will help you get quickly on top of your game.
+
 
 <br />
 
