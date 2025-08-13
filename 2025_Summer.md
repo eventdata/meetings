@@ -147,7 +147,7 @@ Instructions:
 |  2 |  Dr. D'Orazio and Osorio| PSSI Workshop  | [proposal](https://github.com/eventdata/meetings/blob/main/D'Orazio-PeaceScienceWorkshop2025.pdf)  |
 |  3 |  Dr. Brandt | Container updates  | [Singularity version](https://github.com/eventdata/ConfliBERT?tab=readme-ov-file#containerized-evaluation)  |
 |  4 |  Sultan et al. | Paper / conference / submission updates  |   |
-| 5 | Dr. Brandt | Fall 2025 Semester items | |
+| 5 | Dr. Brandt | Fall 2025 Semester items / Meeting times | |
 
 
 <br>
