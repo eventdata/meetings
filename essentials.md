@@ -8,7 +8,7 @@
 * [Meeting etiquette](#meeting-etiquette)
 * [Document your work](#document-your-work)
 * [Working on UA HPC](#woring-on-ua-hpc)
-* [xxx](#xxx)
+
 
 <br />
 
@@ -145,5 +145,5 @@ Here are a few basic guidelines to keep in mind:
 
 The University of Arizona (UA) High Performance Computing (HPC) space gets completely wiped out every year at some point during the summer. If you are working on the UA HPC **you are responsible for backing up all your data** before everything is deleted. 
 
-Please schedule your data backup with enough anticipation to prevent catastrophic data loss.
+Please take this seriously and schedule your data backup with enough anticipation to prevent catastrophic data loss.  Do not underestimate the time it takes to backup your data.
 
