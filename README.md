@@ -9,5 +9,6 @@ Please click on the link below to see or edit the content of our meeting schedul
 If you need access to this repo, please contact any of the PIs.
 
 ---
+* [Fall 2025 schedule](2025_Fall.md)
 * [Summer 2025 schedule](2025_Summer.md)
 * [Spring 2025 schedule](2025_Spring.md)
