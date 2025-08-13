@@ -49,9 +49,12 @@ Pay particular attention to the information sources and volume of corpus used fo
 Seriously, please read the three papers listed above. Then you can keep going. 
 
 
+<br />
+
+
 ## GOT A PAPER IDEA??
 
-Awesome! We love new ideas and really like working with proactive collaborators. Before you get started with your own work, please take a look at our wotk in the [project's main website](https://eventdata.utdallas.edu/). 
+Awesome! We love new ideas and really like working with proactive collaborators. Before you get started with your own work, please take a look at our previous work in the [project's main website](https://eventdata.utdallas.edu/). 
 
 Here you will see our work around the following topics:
 
@@ -73,12 +76,12 @@ So, before you get started, please get yourself familiar with the work that we h
 
 If you are leading a research paper, we encourage you to consider the following elements:
 
-* Discuss with one of the PIs the alignment of your paper idea with the overall grant.
+* Discuss with one of the PIs the alignment of your paper idea with the overall objectives of the grant.
    * Prepare a 4-slides presentation responding to: what is the problem? what is the solution? what is the impact? what do you need?
    * Please be open to feedback.
-* Get your team together
+* Get your team together.
    * Make sure you have the right collaborators and resources (data, computing, etc.) that you need for the paper.
-   * Please be a good citizen. Show up, respond to emails, do your part.
+   * Please be a good citizen. Show up, respond to emails, do your part, be kind.
    * As a convention in this group, the PIs are included as coauthors toward the end of the list.
 * Identify a target conference or journal and mark the submission date.
    * Make sure your work is in line with the conference or journal objectives.
@@ -87,9 +90,9 @@ If you are leading a research paper, we encourage you to consider the following 
    * Use a project management tool (Trello, Monday, Asana, etc.) to schedule your work and track your progress.
    * Meet regularly with your working group to report progress.
    * Be ready to present your progress in our general meeting.
-   * Schedule your presentation in our meeting schedule.
-   * Include a link to your presentation.
-* Share the final draft of your paper with the PIs **at least one week before** the deadline.
+      * Schedule your presentation in our meeting schedule.
+      * Include a link to your presentation.
+* Share the final draft of your paper with the PIs **at least one week before** the submission deadline.
 
 
 
