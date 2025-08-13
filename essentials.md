@@ -4,8 +4,14 @@
 
 * [Welcome](#welcome)
 * [ConfliBERT Basic Developments](#conflibert-basic-developments)
+* [Got a paer idea?](#got-a-paper-idea)
+* [Meeting etiquette](#meeting-etiquette)
+* [Document your work](#document-your-work)
+* [Working on UA HPC](#woring-on-ua-hpc)
+* [xxx](#xxx)
 
 <br />
+
 ## WELCOME 
  
 Welcome to our working group! 
@@ -85,7 +91,7 @@ If you want present your progress, please:
 
 <br />
 
-## DOCUMENT! DOCUMENT! DOCUMENT YOUR WORK!
+## DOCUMENT YOUR WORK
 
 We have a big collaborative team that often involves several members working on the same project. 
 Also, we often use data, results, or outputs of some papers as inputs for new papers. 
@@ -132,4 +138,12 @@ Here are a few basic guidelines to keep in mind:
    * We tend to work at a very quick pace. So, make sure all your files are updated in the shared space.
 
 
+
+<br />
+
+## WORKING ON UA HPC
+
+The University of Arizona (UA) High Performance Computing (HPC) space gets completely wiped out every year at some point during the summer. If you are working on the UA HPC **you are responsible for backing up all your data** before everything is deleted. 
+
+Please schedule your data backup with enough anticipation to prevent catastrophic data loss.
 
