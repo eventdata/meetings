@@ -5,6 +5,7 @@
 * [Welcome](#welcome)
 * [ConfliBERT Basic Developments](#conflibert-basic-developments)
 * [Got a paer idea?](#got-a-paper-idea)
+* [Leading a Research Paper](#leading-a-research-paper)
 * [Meeting etiquette](#meeting-etiquette)
 * [Document your work](#document-your-work)
 * [Working on UA HPC](#woring-on-ua-hpc)
@@ -68,9 +69,28 @@ So, before you get started, please get yourself familiar with the work that we h
 
 
 
-## SPECIALIZED TOPICS
+## LEADING A RESEARCH PAPER
 
-* Group other papers by topic TBD.
+If you are leading a research paper, we encourage you to consider the following elements:
+
+* Discuss with one of the PIs the alignment of your paper idea with the overall grant.
+   * Prepare a 4-slides presentation responding to: what is the problem? what is the solution? what is the impact? what do you need?
+   * Please be open to feedback.
+* Get your team together
+   * Make sure you have the right collaborators and resources (data, computing, etc.) that you need for the paper.
+   * Please be a good citizen. Show up, respond to emails, do your part.
+   * As a convention in this group, the PIs are included as coauthors toward the end of the list.
+* Identify a target conference or journal and mark the submission date.
+   * Make sure your work is in line with the conference or journal objectives.
+   * Create an Overleaf document and GitHub repo and share them with your collaborators.
+* Manage and report your progress.
+   * Use a project management tool (Trello, Monday, Asana, etc.) to schedule your work and track your progress.
+   * Meet regularly with your working group to report progress.
+   * Be ready to present your progress in our general meeting.
+   * Schedule your presentation in our meeting schedule.
+   * Include a link to your presentation.
+* Share the final draft of your paper with the PIs **at least one week before** the deadline.
+
 
 
 
