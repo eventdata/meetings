@@ -2,7 +2,11 @@
 
 <br />
 
-## WELCOME !!!
+* [Welcome](#welcome)
+* [ConfliBERT Basic Developments](#conflibert-basic-developments)
+
+<br />
+## WELCOME 
  
 Welcome to our working group! 
 
