@@ -55,14 +55,14 @@ When participating in our meetings, please:
 * Keep your microphone off (unless you are speaking, of course)
 
 If you want present your progress, please:
-* Include your name in the [Spring 2025 schedule](2025_Spring.md)
+* Include your name in the [Fall 2025 schedule](2025_Fall.md)
 * If relevant, include the URLs for the resources you want to discuss.
 * Let's try to respect the order of cotributors listed in the agenda.
 * Please be mindful of the time, so keep your contributions on point.
 
 <br />
 
-## DOCUMENT YOUR WORK
+## DOCUMENT! DOCUMENT! DOCUMENT YOUR WORK!
 
 We have a big collaborative team that often involves several members working on the same project. 
 Also, we often use data, results, or outputs of some papers as inputs for new papers. 
