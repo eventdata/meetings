@@ -90,8 +90,8 @@ If you are leading a research paper, we encourage you to consider the following 
    * Use a project management tool (Trello, Monday, Asana, etc.) to schedule your work and track your progress.
    * Meet regularly with your working group to report progress.
    * Be ready to present your progress in our general meeting.
-      * Schedule your presentation in our meeting schedule.
-      * Include a link to your presentation.
+      * Mark your presentation in our meeting schedule.
+      * Include a link to your slides in our meeting schedule.
 * Share the final draft of your paper with the PIs **at least one week before** the submission deadline.
 
 
