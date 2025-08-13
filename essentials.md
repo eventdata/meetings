@@ -8,9 +8,9 @@ If you are new to this project, we strongly encourage you to familiarize yoursel
 
 Keep the following URLs handy as reference for all the work we have been producing under this project.
 
-   * [Project's main website](https://eventdata.utdallas.edu/)
-   * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT)
-   * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd)
+   * [Project's main website](https://eventdata.utdallas.edu/{target=_blank})
+   * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT{target=_blank})
+   * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd{target=_blank})
 
 <br />
 
@@ -20,14 +20,14 @@ Please read the papers presenting the ConfliBERT family models in English, Spani
 Pay particular attention to the information sources and volume of corpus used for pre-training ConfliBERT in each language. You also want to identify the different versions of ConfliBERT (continual/from scratch, cased/uncased) available in each language. Also pay attention to the databases and specific tasks used in the downstream applications in each paper. 
 
 * **ConfliBERT English**
-   * Paper [Hu et al. (2022)](https://aclanthology.org/2022.naacl-main.400/)
+   * Paper [Hu et al. (2022)](https://aclanthology.org/2022.naacl-main.400/{target=_blank})
 
 
 * **ConfliBERT Spanish**
-   * Paper [Yang et al. (2023)](https://ieeexplore.ieee.org/document/10409883)
+   * Paper [Yang et al. (2023)](https://ieeexplore.ieee.org/document/10409883{target=_blank})
 
 * **ConfliBERT Arabic**
-   * Paper [Alsarra et al. (2023)](https://aclanthology.org/2023.ranlp-1.11/)
+   * Paper [Alsarra et al. (2023)](https://aclanthology.org/2023.ranlp-1.11/{target=_blank})
 
 <br />
 
