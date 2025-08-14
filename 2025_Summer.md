@@ -144,7 +144,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 |  Dr. Brandt  | Opening discussion  |   |
-|  2 |  Dr. D'Orazio and Osorio| PSSI Workshop  | [proposal](https://github.com/eventdata/meetings/blob/main/D'Orazio-PeaceScienceWorkshop2025.pdf)  |
+|  2a |  Dr. D'Orazio and Osorio| PSSI Workshop  | [proposal](https://github.com/eventdata/meetings/blob/main/D'Orazio-PeaceScienceWorkshop2025.pdf)  |
+|  2b |  Poli Sci people | From PolMeth: APSA working group, SPSA CWC  | [spsa submission](https://docs.google.com/forms/d/e/1FAIpQLSdwfU8ET5pYz7Eh9FriWTXUTh7XkISYN9G7hE9IHEhu9apuGA/viewform) |
 |  3 |  Dr. Brandt | Container updates  | [Singularity version](https://github.com/eventdata/ConfliBERT?tab=readme-ov-file#containerized-evaluation)  |
 |  4 |  Sultan et al. | Paper / conference / submission updates  |   |
 | 5 | Dr. Brandt | Fall 2025 Semester items / Meeting times | |
