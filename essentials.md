@@ -160,13 +160,24 @@ Here are a few basic guidelines to keep in mind:
    * Make sure all those who need access to your data and scripts in the shared space have access to it. This does not mean that the space has to be public (yet), just make sure that all your team members can access the latest version of your files.
    * We tend to work at a very quick pace. So, make sure all your files are updated in the shared space.
 
-
-
 <br />
+
+## Local Onboarding instruction steps
+
+1. Add participant to local Teams / Slack / Messaging group
+2. Add participant to github.com/eventdata
+3. Direct participant to this page!
+
 
 ## WORKING ON UA HPC
 
 The University of Arizona (UA) High Performance Computing (HPC) space gets completely wiped out every year at some point during the summer. If you are working on the UA HPC **you are responsible for backing up all your data** before everything is deleted. 
 
 Please take this seriously and schedule your data backup with enough anticipation to prevent catastrophic data loss.  Do not underestimate the time it takes to backup your data.
+
+## USING ACCESS / DELTA Resources
+
+- [ACCESS Signup is here](https://operations.access-ci.org/identity/new-user)
+- Ask Dr. Brandt or Dr. Alsarra to then add you to our allocation group
+- Talk with someone who has already used these HPC resourses so you learn what to (not) do.
 
