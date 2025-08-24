@@ -31,9 +31,9 @@ Keep the following URLs handy as reference for all the work we have been produci
 ## MEETINGS AND COMMS ETIQUETTE
 
 When participating in our meetings, please:
-* Arrive on time
-* Turn your camera on
-* Keep your microphone off (unless you are speaking, of course)
+* Arrive on time.
+* Turn your camera on (seriously, turn your cammera on).
+* Keep your microphone off (unless you are speaking, of course).
 
 If you want present your progress, please:
 * Include your name in the [Fall 2025 schedule](2025_Fall.md)
