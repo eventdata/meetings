@@ -3,10 +3,10 @@
 <br />
 
 * [Welcome](#welcome)
+* [Meeting and comms etiquette](#meeting-and-commms-etiquette)
 * [ConfliBERT Basic Developments](#conflibert-basic-developments)
 * [Got a paer idea?](#got-a-paper-idea)
 * [Leading a Research Paper](#leading-a-research-paper)
-* [Meeting etiquette](#meeting-etiquette)
 * [Document your work](#document-your-work)
 * [Working on UA HPC](#woring-on-ua-hpc)
 
@@ -24,6 +24,29 @@ Keep the following URLs handy as reference for all the work we have been produci
    * [Project's main website](https://eventdata.utdallas.edu/)  
    * [ConfliBERT GitHub](https://github.com/eventdata/ConfliBERT)  
    * [ConfliBERT HuggingFace](https://huggingface.co/eventdata-utd) 
+
+<br />
+
+## MEETING AND COMMS ETIQUETTE
+
+When participating in our meetings, please:
+* Arrive on time
+* Turn your camera on
+* Keep your microphone off (unless you are speaking, of course)
+
+If you want present your progress, please:
+* Include your name in the [Fall 2025 schedule](2025_Fall.md)
+* If relevant, include the URLs for the resources you want to discuss.
+* Let's try to respect the order of cotributors listed in the agenda.
+* Please be mindful of the time, so keep your contributions on point.
+
+
+In terms of communications, please: 
+* Keep an eye on the quick communications channel used in your team (Slack, Teams, etc.)
+* Please respond quickly and effectively
+* If you are CCed in an email, please send your response CCing all the people included in the first email (unless you want to communicate something personal). This keeps everyone in the knowing and facilitates to communication efficiency.
+* Try to minimize email communications and when doing so, please keep them brief and on point.
+
 
 <br />
 
@@ -99,20 +122,7 @@ If you are leading a research paper, we encourage you to consider the following 
 
 <br />
 
-## MEETING ETIQUETTE
 
-When participating in our meetings, please:
-* Arrive on time
-* Turn your camera on
-* Keep your microphone off (unless you are speaking, of course)
-
-If you want present your progress, please:
-* Include your name in the [Fall 2025 schedule](2025_Fall.md)
-* If relevant, include the URLs for the resources you want to discuss.
-* Let's try to respect the order of cotributors listed in the agenda.
-* Please be mindful of the time, so keep your contributions on point.
-
-<br />
 
 ## DOCUMENT YOUR WORK
 
