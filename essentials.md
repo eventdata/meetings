@@ -3,7 +3,7 @@
 <br />
 
 * [Welcome](#welcome)
-* [Meeting and comms etiquette](#meeting-and-commms-etiquette)
+* [Meetings and comms etiquette](#meetings-and-comms-etiquette)
 * [ConfliBERT Basic Developments](#conflibert-basic-developments)
 * [Got a paer idea?](#got-a-paper-idea)
 * [Leading a Research Paper](#leading-a-research-paper)
@@ -27,7 +27,7 @@ Keep the following URLs handy as reference for all the work we have been produci
 
 <br />
 
-## MEETING AND COMMS ETIQUETTE
+## MEETINGS AND COMMS ETIQUETTE
 
 When participating in our meetings, please:
 * Arrive on time
