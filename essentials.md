@@ -8,7 +8,8 @@
 * [Got a paer idea?](#got-a-paper-idea)
 * [Leading a Research Paper](#leading-a-research-paper)
 * [Document your work](#document-your-work)
-* [Working on UA HPC](#woring-on-ua-hpc)
+* [Working on HPC](#woring-on-hpc)
+* [Local onboarding steps](local-onboarding-steps)
 
 
 <br />
@@ -172,22 +173,33 @@ Here are a few basic guidelines to keep in mind:
 
 <br />
 
-## Local Onboarding instruction steps
-
-1. Add participant to local Teams / Slack / Messaging group
-2. Add participant to github.com/eventdata
-3. Direct participant to this page!
 
 
-## WORKING ON UA HPC
+## WORKING ON HPC
 
+### USIGN THE UA HPC
 The University of Arizona (UA) High Performance Computing (HPC) space gets completely wiped out every year at some point during the summer. If you are working on the UA HPC **you are responsible for backing up all your data** before everything is deleted. 
 
 Please take this seriously and schedule your data backup with enough anticipation to prevent catastrophic data loss.  Do not underestimate the time it takes to backup your data.
 
-## USING ACCESS / DELTA Resources
+<br />
+
+### USING ACCESS / DELTA Resources
 
 - [ACCESS Signup is here](https://operations.access-ci.org/identity/new-user)
 - Ask Dr. Brandt or Dr. Alsarra to then add you to our allocation group
 - Talk with someone who has already used these HPC resourses so you learn what to (not) do.
 
+<br />
+
+## LOCAL ONBOARDING STEPS
+
+1. Add participant to local Teams / Slack / messaging group
+3. Add participant to github.com/eventdata
+4. Add participant to sub-group meetings
+5. Direct participant to this page!
+
+
+<br />
+
+<br />
