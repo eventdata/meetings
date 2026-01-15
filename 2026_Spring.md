@@ -11,9 +11,6 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-|  2 |   |   |    | 
-|  3 |   |   |   |
-|  4 |   |   |   |
 
 <br>
 
@@ -21,12 +18,16 @@ Instructions:
 * Working on new student recruitment in early 2026
 * Proposed APSA papers and VRM
 * Check in on progress across projects and PI teams
-* Funding for RSE ?
 <br>
 
 **WVU updates**
-* xxx
+* Progress on document processing for Margaret's Senate hearings
+  - Consider chunking versus summary strategies
+  - Working on labeling
 
+**AZ updates**
+* Working with Sultan on invited IPM submission
+* 
 <br>
 
 ## January 22
@@ -34,9 +35,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-|  2 |   |   |    | 
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 | Wenbo  |   |    | 
+|  3 |  Niamat | Graph re-ranking  |   |
+|  4 | Xingyuan  | Messy text and summaries  |   |
 
 <br>
 
@@ -49,9 +50,6 @@ Instructions:
 * xxx
 
 <br>
-
-**UA updates**
-* xxx
 
 **UA updates**
 * xxx
