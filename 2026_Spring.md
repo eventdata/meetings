@@ -6,3 +6,83 @@ Instructions:
   * Also, keep in mind the time change in the Fall
 * Use the Teams Link to join the meeting.  Check your email or calendar for the current link.
 
+## January 15
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+|  2 |   |   |    | 
+|  3 |   |   |   |
+|  4 |   |   |   |
+
+<br>
+
+**UTD updates**
+* Working on new student recruitment in early 2026
+* Proposed APSA papers and VRM
+* Check in on progress across projects and PI teams
+* Funding for RSE ?
+<br>
+
+**WVU updates**
+* xxx
+
+<br>
+
+## January 22
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+|  2 |   |   |    | 
+|  3 |   |   |   |
+|  4 |   |   |   |
+
+<br>
+
+**UTD updates**
+*
+* 
+<br>
+
+**WVU updates**
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+
+**UA updates**
+* xxx
+
+<br>
+
+## January 29
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+|  2 |   |   |    | 
+|  3 |   |   |   |
+|  4 |   |   |   |
+
+<br>
+
+**UTD updates**
+*
+* 
+<br>
+
+**WVU updates**
+* xxx
+
+<br>
+
+**UA updates**
+* xxx
+
+**UA updates**
+* xxx
+ <br>
+ 
