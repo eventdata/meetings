@@ -47,7 +47,8 @@ Instructions:
 <br>
 
 **WVU updates**
-* xxx
+* Feedback from SPSA and the LLM conference within a conference
+* Date for Simone Paci to come and present on zoom?
 
 <br>
 
