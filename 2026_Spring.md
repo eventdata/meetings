@@ -27,7 +27,6 @@ Instructions:
 
 **AZ updates**
 * Working with Sultan on invited IPM submission
-* 
 <br>
 
 ## January 22
@@ -35,7 +34,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-|  2 | Wenbo  |   |    | 
+|  2 | Wenbo  |  TBD |    | 
 |  3 |  Niamat | Graph re-ranking  |   |
 |  4 | Xingyuan  | Messy text and summaries  |   |
 
