@@ -41,8 +41,6 @@ Instructions:
 <br>
 
 **UTD updates**
-*
-* 
 <br>
 
 **WVU updates**
