@@ -59,9 +59,12 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-|  2 |   |   |    | 
-|  3 |   |   |   |
-|  4 |   |   |   |
+|  2 | Dr. Osorio  | UA Admin  |    | 
+|  3 | Dr. Osorio  | Updating ConfliBERT ES plan |    | 
+|  4 | Dr. Osorio  | Updating ConfliBERT EN plan |    | 
+|  5 | Dr. Osorio  | TRACES LLM reporting standards  |    | 
+|  6 |   |   |   |
+|  7 |   |   |   |
 
 <br>
 
