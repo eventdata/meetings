@@ -50,7 +50,6 @@ Instructions:
 <br>
 
 **UA updates**
-* xxx
 
 <br>
 
@@ -63,8 +62,8 @@ Instructions:
 |  3 | Dr. Osorio  | Updating ConfliBERT ES plan |    | 
 |  4 | Dr. Osorio  | Updating ConfliBERT EN plan |    | 
 |  5 | Dr. Osorio  | TRACES LLM reporting standards  |    | 
-|  6 |   |   |   |
-|  7 |   |   |   |
+|  6 | Dr. Brandt and Yibo  | Codebooks as LLM trainers  |   |
+|  7 |  Dr. Brandt | Q-A options  |   |
 
 <br>
 
