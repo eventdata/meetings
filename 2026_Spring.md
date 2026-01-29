@@ -68,19 +68,13 @@ Instructions:
 <br>
 
 **UTD updates**
-*
-* 
+
 <br>
 
 **WVU updates**
-* xxx
 
 <br>
 
 **UA updates**
-* xxx
-
-**UA updates**
-* xxx
  <br>
  
