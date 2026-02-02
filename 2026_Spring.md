@@ -67,8 +67,21 @@ Instructions:
 
 <br>
 
-**UTD updates**
+ 
+## February 5
 
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | Dr Brandt | Work plan on this side | | 
+| 3 | Dr Osorio | APSA-VRM and conferences | | 
+
+**UTD updates**
+* Ashton working on UCDP
+* Dagmar on her summary tasks and data
+* Xingyuan working on draft
+* Ethan working on ToI for protests
+  
 <br>
 
 **WVU updates**
@@ -77,4 +90,3 @@ Instructions:
 
 **UA updates**
  <br>
- 
