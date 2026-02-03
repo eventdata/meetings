@@ -90,3 +90,11 @@ Instructions:
 
 **UA updates**
  <br>
+
+ ## February 26
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Simone Paci (Stanford) | Research presentation  |   |
+
+<br>
