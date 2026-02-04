@@ -73,14 +73,15 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | Dr Brandt | Work plan on this side | | 
-| 3 | Dr Osorio | APSA-VRM and conferences | | 
+| 2 | Dr Osorio and others | APSA-VRM and conferences updates| | 
+| 3 | Niamat | Data needs for re-ranking paper| |
+| 4 | Dr Brandt | Work plan on this side | | 
 
 **UTD updates**
 * Ashton working on UCDP
 * Dagmar on her summary tasks and data
 * Xingyuan working on draft
-* Ethan working on ToI for protests
+* Ethan working on ToI for protests and having a meeting with Dr. Pinckney
   
 <br>
 
@@ -90,6 +91,19 @@ Instructions:
 
 **UA updates**
  <br>
+
+## February 12
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+
+## February 19
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+
 
  ## February 26
 
