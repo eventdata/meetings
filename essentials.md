@@ -36,7 +36,7 @@ When participating in our meetings, please:
 * Keep your microphone off (unless you are speaking, of course).
 
 If you want present your progress, please:
-* Include your name in the [Fall 2025 schedule](2025_Fall.md)
+* Include your name in the [Spring 2026 schedule](2026_Spring.md)
 * If relevant, include the URLs for the resources you want to discuss.
 * Let's try to respect the order of cotributors listed in the agenda.
 * Please be mindful of the time, so keep your contributions on point.
