@@ -97,6 +97,10 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
+|  2 | Dr. Osorio | Introducing new UA members  |   |
+|  3 | Dr. Osorio | APSA Virtual Research Meeting  |   |
+
+<br>
 
 ## February 19
 
