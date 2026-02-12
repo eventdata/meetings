@@ -113,6 +113,9 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-|  1 | Simone Paci (Stanford) | Research presentation  |   |
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | Dagmar Heintze| |
+| 3 | Xingyuan Zhao| | 
+|  X | Simone Paci (Stanford) | Research presentation  |   |
 
 <br>
