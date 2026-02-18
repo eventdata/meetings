@@ -107,7 +107,18 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | Dagmar | Any final queries / questions about TexMeth poster | |
+| 3 | Xingyuan | Updates on the Messy Text Paper | This is from the UMN-ODIM data | 
+| 4 | Ashton | Maybe something on UCDP Annotation setups | | 
 
+**UTD updates**
+* Ashton working on UCDP-AEC and setup in Label Studio
+* Dagmar on her summary tasks and data
+* Xingyuan working on draft
+* Ethan working on ToI for protests and having a meeting with Dr. Pinckney
+* [AI Unlocked Workshop Call](https://www.colorado.edu/rc/national-ai-workshop) 
+
+<br> 
 
  ## February 26
 
