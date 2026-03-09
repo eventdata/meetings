@@ -130,3 +130,118 @@ Instructions:
 |  X | Simone Paci (Stanford) | Research presentation  |   |
 
 <br>
+
+## March 12
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | Drs. Brandt / Osorio|  Org for the APSA VRM in April |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* Ashton  / Nishil / Nachiketh working on UCDP-AEC and setup in Label Studio
+* Xingyuan working on draft: lit review and Dr. Cuellar-Cuellar's sections.
+* Ethan working on ToI for protests, esp LLM prompting / RAG
+* Checking out UTD AI resource access policies (which seem to be changing)
+
+<br>
+
+## March 19 (UTD Spring Break)
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | | |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* 
+*
+* 
+
+<br>
+
+## March 26
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | | |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* 
+*
+* 
+<br>
+
+## April 2
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | | |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* 
+*
+* 
+<br>
+
+## April 9
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | | |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* 
+*
+* 
+<br>
+
+## April 16: APSA VRM THIS WEEK in place of meeting.  
+
+[Link here](TBD)
+
+<br>
+
+## April 23
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | Dr. Osorio | Post APSA VRM Summary| |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* 
+*
+* 
+<br>
+
+## April 30
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | | |
+| 3 | | | 
+| 4 | | Other updates? |
+
+**UTD updates**
+* 
+*
+* 
+<br>
+
