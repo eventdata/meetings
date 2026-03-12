@@ -184,12 +184,11 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | |
-| 3 | | | 
+| 2 | Vito / Javier / Naif | Review Tutorials for APSA | |
+| 3 | Dr. Brandt| Review of APSA workshop flow| 
 | 4 | | Other updates? |
 
 **UTD updates**
-* 
 *
 * 
 <br>
