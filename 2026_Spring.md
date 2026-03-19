@@ -153,8 +153,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | |
-| 3 | | | 
+| 2 | Dr. Osorio | APSA meeting updates |
+| 3 | Dr. Osorio | English data gathering updates | 
 | 4 | | Other updates? |
 
 **UTD updates**
