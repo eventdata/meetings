@@ -157,11 +157,6 @@ Instructions:
 | 3 | Dr. Osorio | English data gathering updates | 
 | 4 | | Other updates? |
 
-**UTD updates**
-* 
-*
-* 
-
 <br>
 
 ## March 26
@@ -169,13 +164,12 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | All | NSF no-cost extension |
+| 2 | All | NSF no-cost extension | |
 | 3 |  D'Orazio | Updates: LexisNexis, Q-A pairs with Niamat/Spencer, ISA comments, Peace Science workshop |
-| 4 | | Other updates? |
+| 4 | Dr. Brandt | UCDP QA setup / LabelStudio | |
 
 **UTD updates**
-* 
-*
+* Messy text / ODIM data classification running on Delta
 * 
 <br>
 
