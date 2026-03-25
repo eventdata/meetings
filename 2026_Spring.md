@@ -169,8 +169,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | |
-| 3 | | | 
+| 2 | All | NSF no-cost extension |
+| 3 | | D'Orazio | Updates: LexisNexis, Q-A pairs with Niamat/Spencer, ISA comments, Peace Science workshop |
 | 4 | | Other updates? |
 
 **UTD updates**
