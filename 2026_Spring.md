@@ -179,12 +179,14 @@ Instructions:
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Vito / Javier / Naif | Review Tutorials for APSA | |
-| 3 | Dr. Brandt| Review of APSA workshop flow| 
-| 4 | | Other updates? |
+| 3 | Dr. Brandt| Review of APSA workshop flow | |
+| 4 | Shreyas  | ConfliBERT for R | |
 
 **UTD updates**
+
 *
 * 
+
 <br>
 
 ## April 9
@@ -200,6 +202,7 @@ Instructions:
 * 
 *
 * 
+
 <br>
 
 ## April 16: APSA VRM THIS WEEK in place of meeting.  
