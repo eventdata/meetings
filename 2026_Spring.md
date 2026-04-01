@@ -170,7 +170,7 @@ Instructions:
 
 **UTD updates**
 * Messy text / ODIM data classification running on Delta
-* 
+
 <br>
 
 ## April 2
@@ -183,6 +183,9 @@ Instructions:
 | 4 | Shreyas  | ConfliBERT for R | |
 | 5 | Dr Brandt / Sultan | ACCESS Allocation | Extension versus additional resources? |
 
+**UTD updates**
+* Messy text / ODIM data classification running on Delta and making edits on manuscript
+* UCDP-AEC annotations starting
 <br>
 
 ## April 9
