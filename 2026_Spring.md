@@ -206,7 +206,7 @@ Instructions:
 
 ## April 16: APSA VRM THIS WEEK in place of meeting.  
 
-[Link here](TBD)
+[Link here](https://eventdata.utdallas.edu/workshops/apsa-workshop-2026/)
 
 <br>
 
@@ -220,6 +220,7 @@ Instructions:
 | 4 | | Other updates? |
 
 **UTD updates**
+
 * 
 *
 * 
@@ -235,6 +236,7 @@ Instructions:
 | 4 | | Other updates? |
 
 **UTD updates**
+
 * 
 *
 * 
