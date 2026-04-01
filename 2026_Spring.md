@@ -181,11 +181,7 @@ Instructions:
 | 2 | Vito / Javier / Naif | Review Tutorials for APSA | |
 | 3 | Dr. Brandt| Review of APSA workshop flow | |
 | 4 | Shreyas  | ConfliBERT for R | |
-
-**UTD updates**
-
-*
-* 
+| 5 | Dr Brandt / Sultan | ACCESS Allocation | Extension versus additional resources? |
 
 <br>
 
