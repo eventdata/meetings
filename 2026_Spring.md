@@ -193,8 +193,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | |
-| 3 | | | 
+| 2 | Dr. Brandt | Review Plans for APSA Workshop | |
+| 3 | Dr. D'Orazio| Lexis-Nexis updates | | 
 | 4 | | Other updates? |
 
 **UTD updates**
