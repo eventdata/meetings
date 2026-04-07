@@ -194,8 +194,9 @@ Instructions:
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Dr. Brandt | Review Plans for APSA Workshop | |
-| 3 | Dr. D'Orazio| Lexis-Nexis updates | | 
-| 4 | | Other updates? |
+| 3 | Dr. D'Orazio | Lexis-Nexis updates | | 
+| 4 | Dr. Osorio | Data gathering updates | |
+| 5 | | Other updates? |
 
 **UTD updates**
 
