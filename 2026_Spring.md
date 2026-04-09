@@ -198,11 +198,6 @@ Instructions:
 | 4 | Dr. Osorio | Data gathering updates | |
 | 5 | | Other updates? |
 
-**UTD updates**
-
-* 
-*
-* 
 
 <br>
 
