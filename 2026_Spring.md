@@ -213,7 +213,7 @@ Instructions:
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Dr. Osorio | Post APSA VRM Summary| |
-| 3 | | | 
+| 3 | Dr. Brandt | Updates to ACCESS profiles | 
 | 4 | | Other updates? |
 
 **UTD updates**
