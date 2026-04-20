@@ -228,8 +228,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | |
-| 3 | | | 
+| 2 | Dr. Osorio | APSA VRM update |
+| 3 | Dr. Osorio | [PS spcial issue](https://apsanet.org/publications/journals/ps-political-science-politics/calls-for-papers/) | 
 | 4 | | Other updates? |
 
 **UTD updates**
