@@ -213,14 +213,14 @@ Instructions:
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Dr. Osorio | Post APSA VRM Summary| |
-| 3 | Dr. Brandt | Updates to ACCESS profiles | 
-| 4 | | Other updates? |
+| 3 | Dr. Osorio | APSA Special Issue Call | [See call for papers here](https://apsanet.org/publications/journals/ps-political-science-politics/calls-for-papers/) |
+| 4 | Dr. Brandt | Updates to ACCESS profiles | 
+| 5 | | Other updates? |
 
 **UTD updates**
 
-* 
-*
-* 
+* No specifics from UTD side this week.
+ 
 <br>
 
 ## April 30
