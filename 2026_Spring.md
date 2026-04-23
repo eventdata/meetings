@@ -228,8 +228,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 |  Dr. Hu | Overview of his recent work  |
-| 3 |   |   | 
+| 2 |  Dr. Hu | Overview of his recent work  | |
+| 3 |  Niamat | Graph Re-ranking  | |
 | 4 | | Other updates? |
 
 **UTD updates**
