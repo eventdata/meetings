@@ -228,7 +228,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 |   |   |
+| 2 |  Dr. Hu | Overview of his recent work  |
 | 3 |   |   | 
 | 4 | | Other updates? |
 
