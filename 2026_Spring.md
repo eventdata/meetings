@@ -212,7 +212,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | Dr. Osorio | Post APSA VRM Summary| |
+| 2 | Dr. Osorio | Post APSA VRM Summary [attendance](https://docs.google.com/spreadsheets/d/1YHG_FHrFBw-W7BTkAa4_z80gyQng-U8yOKG2MxFyozw/edit?usp=sharing) | |
 | 3 | Dr. Osorio | APSA Special Issue Call | [See call for papers here](https://apsanet.org/publications/journals/ps-political-science-politics/calls-for-papers/) |
 | 4 | Dr. Brandt | Updates to ACCESS profiles | 
 | 5 | | Other updates? |
@@ -228,8 +228,8 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
-| 2 | Dr. Osorio | APSA VRM update |
-| 3 | Dr. Osorio | [PS special issue](https://apsanet.org/publications/journals/ps-political-science-politics/calls-for-papers/) | 
+| 2 |   |   |
+| 3 |   |   | 
 | 4 | | Other updates? |
 
 **UTD updates**
