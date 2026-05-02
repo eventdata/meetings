@@ -239,7 +239,8 @@ Instructions:
 |---|---|---|---|
 |  1 | Dr. Brandt | Opening discussion  |   |
 | 2 |  Niamat | Graph Re-ranking  | |
-| 3 | | Other updates? |
+| 3 | Dr. Brandt | Developing Future Projects | [https://legacyproject.nd.edu/](https://legacyproject.nd.edu/) | 
+| 4 | | Other updates? |
 
 <br>
 
