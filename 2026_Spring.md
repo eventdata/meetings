@@ -241,7 +241,7 @@ Instructions:
 | 2 |  Niamat | Graph Re-ranking  | |
 | 3 | Dr. Brandt | Developing Future Projects | [https://legacyproject.nd.edu/](https://legacyproject.nd.edu/) | 
 | 4 | Dr. D'Orazio | Future workshops / PSSI in Fall 2026 |
-| 5 |  Shreyas (if time allows) | Updates to R package (active learning) | |
+| 5 |  Shreyas (if time allows) | Updates to R package (active learning) | [https://github.com/shreyasmeher/conflibertR] |
 
 <br>
 
