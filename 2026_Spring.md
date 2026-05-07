@@ -242,6 +242,7 @@ Instructions:
 | 3 | Dr. Brandt | Developing Future Projects | [https://legacyproject.nd.edu/](https://legacyproject.nd.edu/) | 
 | 4 | Dr. D'Orazio | Future workshops / PSSI in Fall 2026 |
 | 5 | Shreyas (if time allows) | Updates to R package (active learning) | [Package link](https://github.com/shreyasmeher/conflibertR) |
-| 6 | Dr. Osorio | [TRACES app](https://main.d2aapoecugx81d.amplifyapp.com/) |
+| 6 | Dr. Osorio | Try the [TRACES app](https://main.d2aapoecugx81d.amplifyapp.com/) |
+|  |  | Upload your [TRACES examples here](https://drive.google.com/drive/folders/1y1mdP6mu3Phvgqqt2wKlTQKmbhZGlFbp?usp=sharing)    |
 <br>
 
