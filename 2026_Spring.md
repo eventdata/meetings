@@ -245,3 +245,13 @@ Instructions:
 | 6 | Dr. Osorio | [TRACES app](https://main.d2aapoecugx81d.amplifyapp.com/) |  Upload your [tests](https://drive.google.com/drive/folders/1y1mdP6mu3Phvgqqt2wKlTQKmbhZGlFbp?usp=sharing)    |
 <br>
 
+## May 14
+
+| **Order** |  **Lead** | **Topic**  |  **URL** |  
+|---|---|---|---|
+|  1 | Dr. Brandt | Opening discussion  |   |
+| 2 | Xingyuan | Messy Text Presentation  | |
+| 3 | Dr. Brandt | Summer grant reporting  |  NSF, CSSI workshop?|
+| 4 |  |   | |
+
+<br>
