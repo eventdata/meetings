@@ -252,6 +252,6 @@ Instructions:
 |  1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Xingyuan | Messy Text Presentation  | |
 | 3 | Dr. Brandt | Summer grant reporting  |  NSF, CSSI workshop?|
-| 4 |  |   | |
+| 4 | Dr. Hu | OTC Prompt Query Survey  | |
 
 <br>
