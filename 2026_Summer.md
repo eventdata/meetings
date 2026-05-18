@@ -12,7 +12,7 @@ Instructions:
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Dagmar | Scaling Violence Pipeline | |
-| 3 |  |  | |
+| 3 |  | PSSI Workshop Plan | |
 
 <br>
 
