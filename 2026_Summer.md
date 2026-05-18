@@ -11,12 +11,14 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| 2 | Dagmar | Scaling Violence Pipeline | |
+| 3 |  |  | |
+
 <br>
 
 **UTD updates**
-* 
-* 
+* Working on Messy Text revisions
+* UCDP-AEC tasking
 * 
 <br>
 
