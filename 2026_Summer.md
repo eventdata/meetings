@@ -28,21 +28,24 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| 2 | | Eval plan for CB-2 | |
+| 3| Dr. Brandt | Workplan / Gantt charting for CB-2 | | 
 <br>
 
 **UTD updates**
-* 
+* On-boarded new people for project
 * 
 * 
 <br>
 
 **WVU updates**
 * 
+
 <br>
   
 **AZ updates**
 * 
+
 <br>
 
 ## June 4
