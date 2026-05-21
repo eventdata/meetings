@@ -19,15 +19,7 @@ Instructions:
 **UTD updates**
 * Working on Messy Text revisions
 * UCDP-AEC tasking
-* 
-<br>
-
-**WVU updates**
-* 
-<br>
   
-**AZ updates**
-* 
 <br>
 
 
