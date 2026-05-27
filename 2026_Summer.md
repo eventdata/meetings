@@ -28,14 +28,15 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | Eval plan for CB-2 | |
-| 3| Dr. Brandt | Workplan / Gantt charting for CB-2 | | 
+| 2 | Drs. Brandt and D'Orazio | Introductions of new members| |
+| 3 | Dr. Brandt | Eval plan for CB-2 Discussion | |
+| 4 | Dr. Brandt | Workplan / Gantt charting for CB-2 | | 
 <br>
 
 **UTD updates**
 * On-boarded new people for project
-* 
-* 
+* Making revisions on the Messy Text MS
+* Annotations for the UCDP-AEC
 <br>
 
 **WVU updates**
