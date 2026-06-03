@@ -54,21 +54,10 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
-<br>
+| 2 | Dr. Brandt | Tasks / Workplan / Gantt charting for CB-2 | | 
+| 3 | Dr. Brandt | State of ACCESS GPU Allocations | [details](https://allocations.access-ci.org/how-to) |
+| 4 | Dr. Brandt | NSF and ACCESS reporting queries | Send DOIs! |
 
-**UTD updates**
-* 
-* 
-* 
-<br>
-
-**WVU updates**
-* 
-<br>
-  
-**AZ updates**
-* 
 <br>
 
 ## June 11
