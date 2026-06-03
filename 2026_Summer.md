@@ -39,15 +39,6 @@ Instructions:
 * Annotations for the UCDP-AEC
 <br>
 
-**WVU updates**
-* 
-
-<br>
-  
-**AZ updates**
-* 
-
-<br>
 
 ## June 4
 
@@ -57,7 +48,7 @@ Instructions:
 | 2 | Dr. Brandt | Tasks / Workplan / Gantt charting for CB-2 | | 
 | 3 | Dr. Brandt | State of ACCESS GPU Allocations | [details](https://allocations.access-ci.org/how-to) |
 | 4 | Dr. Brandt | NSF and ACCESS reporting queries | Send DOIs! |
-
+| 5 | Others | Misc. updates | Anything on papers under review? | 
 <br>
 
 ## June 11
