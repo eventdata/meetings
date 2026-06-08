@@ -57,7 +57,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| 2 | Vito / Margaret | Present Congress Hearings | |
 <br>
 
 **UTD updates**
