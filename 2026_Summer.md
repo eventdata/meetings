@@ -61,9 +61,9 @@ Instructions:
 <br>
 
 **UTD updates**
-* 
-* 
-* 
+* Working on UCDP-AEC QA data via Ollama for model selection and testing
+* Messy Text paper under revision for submission to a journal
+* Gathering data for NSF and ACCESS reports
 <br>
 
 **WVU updates**
