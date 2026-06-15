@@ -66,13 +66,6 @@ Instructions:
 * Gathering data for NSF and ACCESS reports
 <br>
 
-**WVU updates**
-* 
-<br>
-  
-**AZ updates**
-* 
-<br>
 
 ## June 18
 
@@ -83,9 +76,10 @@ Instructions:
 <br>
 
 **UTD updates**
-* 
-* 
-* 
+* Dagmar's making progress on coding her NPMs
+* Xingyuan has progress on messy text draft
+* Working on UCDP-AEC...
+* Drafting NSF reports
 <br>
 
 **WVU updates**
