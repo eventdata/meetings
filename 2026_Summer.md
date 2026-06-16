@@ -72,7 +72,9 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| 2 | Dr. Brandt| Delta / HPC estimates | |
+| 3 | | ConfliBERT 2 leadership / plan | |
+| 4 | | Gen AI Application ? | | 
 <br>
 
 **UTD updates**
