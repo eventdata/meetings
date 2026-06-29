@@ -100,20 +100,6 @@ Instructions:
 | 2 | | | |
 <br>
 
-**UTD updates**
-* 
-* 
-* 
-<br>
-
-**WVU updates**
-* 
-<br>
-  
-**AZ updates**
-* 
-<br>
-
 ## July 2
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
@@ -123,7 +109,7 @@ Instructions:
 <br>
 
 **UTD updates**
-* 
+* NSF report wrapping up
 * 
 * 
 <br>
@@ -141,7 +127,7 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| 2 | Dagmar | NPM data extraction results | |
 <br>
 
 **UTD updates**
