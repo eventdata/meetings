@@ -84,20 +84,12 @@ Instructions:
 * Drafting NSF reports
 <br>
 
-**WVU updates**
-* 
-<br>
-  
-**AZ updates**
-* 
-<br>
 
 ## June 25
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
 <br>
 
 ## July 2
@@ -110,16 +102,7 @@ Instructions:
 
 **UTD updates**
 * NSF report wrapping up
-* 
-* 
-<br>
-
-**WVU updates**
-* 
-<br>
-  
-**AZ updates**
-* 
+* UCDP QA results are coming (next week?)
 <br>
 
 ## July 9
@@ -128,6 +111,7 @@ Instructions:
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Dagmar | NPM data extraction results | |
+| 3 | TBD | UCDP AEC QA results presentation | | 
 <br>
 
 **UTD updates**
