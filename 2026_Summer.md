@@ -111,13 +111,12 @@ Instructions:
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
 | 2 | Dagmar | NPM data extraction results | |
-| 3 | TBD | UCDP AEC QA results presentation | | 
+| 3 | Ashton / Gia / Nachiketh / Nishil | Some UCDP AEC QA results | | 
 <br>
 
 **UTD updates**
-* 
-* 
-* 
+* UG Students working on UCDP presentation
+* Meeting with Shreyas about Routledge edited volume contribution
 <br>
 
 **WVU updates**
@@ -132,14 +131,12 @@ Instructions:
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
-| 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| * | Dr. Brandt, Dagmar, Xingyuan | Not here -- at POLMETH or Wisconsin |   |
+| 1 | ?? |  ?? | |
 <br>
 
 **UTD updates**
-* 
-* 
-* 
+* UG Students make revisions on UCDP QA results
 <br>
 
 **WVU updates**
