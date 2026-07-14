@@ -133,7 +133,7 @@ Instructions:
 |---|---|---|---|
 | * | Dr. Brandt, Dagmar, Xingyuan | Not here -- at POLMETH or Wisconsin |   |
 | 1 | Osorio |  NSF PESOES grant | [Call of applications](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation) |
-| 2 | ?? |  ?? | |
+| 2 | D'Orazio | Updates | NSF Delta ACCESS credits, Fineweb dumps, newsapi.ai |
 <br>
 
 **UTD updates**
