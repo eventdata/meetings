@@ -140,20 +140,15 @@ Instructions:
 * UG Students make revisions on UCDP QA results
 <br>
 
-**WVU updates**
-* 
-<br>
-  
-**AZ updates**
-* 
-<br>
-
 ## July 23
 
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | | | |
+| 2 | Conference followups|  POLMETH / OSG-HTC| |
+| 3 | Dr. Brandt | Routledge Edited Volume | | 
+| 4 | Dr. Brandt | Foreign malign and LLMs on Texas Machines | | 
+|  | | | |
 <br>
 
 **UTD updates**
