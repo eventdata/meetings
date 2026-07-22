@@ -145,15 +145,14 @@ Instructions:
 | **Order** |  **Lead** | **Topic**  |  **URL** |  
 |---|---|---|---|
 | 1 | Dr. Brandt | Opening discussion  |   |
-| 2 | Conference followups|  POLMETH / OSG-HTC| |
-| 3 | Dr. Brandt | Routledge Edited Volume | | 
-| 4 | Dr. Brandt | Foreign malign and LLMs on Texas Machines | | 
+| 2 | Dr. Brandt | Foreign malign; LLMs on Texas Machines | [PTC and Covered Apps](https://utdallas-hpc-juno-ug.readthedocs-hosted.com/en/latest/support/prohibited-technologies/) | 
+| 3 | Dr. Brandt | Routledge Edited Volume |  | 
+| 4 | Dagmar and Xingyuan | Conference Followups: POLMETH / OSG-HTC| |
 |  | | | |
 <br>
 
 **UTD updates**
-* 
-* 
+* Working on evaluation of LLMs on QA tasks for UCDP (more in a week)
 * 
 <br>
 
